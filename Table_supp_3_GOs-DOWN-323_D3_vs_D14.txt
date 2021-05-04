@@ -1,0 +1,1039 @@
+Gene Id	FC	GO	GO term	Category	Gene Name	Product
+65963	-0.550852798	ID:GO:0043226	cellular component	organelle	Tmem176b	transmembrane protein 176B
+29877	-0.940175471	ID:GO:0043226	cellular component	organelle	Hdgfrp3	hepatoma-derived growth factor, related protein 3
+225182	-1,118,372,998	ID:GO:0043226	cellular component	organelle	Rbbp8	retinoblastoma binding protein 8
+15516	-0.758841241	ID:GO:0043226	cellular component	organelle	Hsp90ab1	heat shock protein 90 alpha (cytosolic), class B member 1
+53612	-2,916,580,217	ID:GO:0043226	cellular component	organelle	Vti1b	vesicle transport through interaction with t-SNAREs 1B homolog
+76485	-0.861013141	ID:GO:0043226	cellular component	organelle	Glt8d1	glycosyltransferase 8 domain containing 1
+51786	-2,684,121,211	ID:GO:0043226	cellular component	organelle	Cpsf2	cleavage and polyadenylation specific factor 2
+14319	-1,669,659,207	ID:GO:0043226	cellular component	organelle	Fth1	ferritin heavy chain 1
+381917	-136,790,207	ID:GO:0043226	cellular component	organelle	Dnahc3	dynein, axonemal, heavy chain 3
+106931	-0.599167868	ID:GO:0043226	cellular component	organelle	Kctd1	potassium channel tetramerisation domain containing 1
+69089	-0.922586173	ID:GO:0043226	cellular component	organelle	Oxa1l	oxidase assembly 1-like
+12317	-1,027,705,564	ID:GO:0043226	cellular component	organelle	Calr	calreticulin
+83490	-2,549,074,545	ID:GO:0043226	cellular component	organelle	Pik3ap1	phosphoinositide-3-kinase adaptor protein 1
+67883	-2,473,083,939	ID:GO:0043226	cellular component	organelle	Uxs1	UDP-glucuronate decarboxylase 1
+18552	-0.775217622	ID:GO:0043226	cellular component	organelle	Pcsk5	proprotein convertase subtilisin/kexin type 5
+71562	-2,513,248,527	ID:GO:0043226	cellular component	organelle	Afmid	arylformamidase
+21425	-2,215,672,831	ID:GO:0043226	cellular component	organelle	Tfeb	transcription factor EB
+13171	-0.70410374	ID:GO:0043226	cellular component	organelle	Dbt	dihydrolipoamide branched chain transacylase E2
+208628	-6,497,557,543	ID:GO:0043226	cellular component	organelle	Kntc1	kinetochore associated 1
+57813	-2,230,136,014	ID:GO:0043226	cellular component	organelle	Tk2	thymidine kinase 2, mitochondrial
+56404	-2,476,877,465	ID:GO:0043226	cellular component	organelle	Trip4	thyroid hormone receptor interactor 4
+100503185	-0.840208521	ID:GO:0043226	cellular component	organelle	Btbd8	BTB (POZ) domain containing 8
+52683	-0.682639009	ID:GO:0043226	cellular component	organelle	Ncaph2	non-SMC condensin II complex, subunit H2
+50911	-2,086,299,856	ID:GO:0043226	cellular component	organelle	Exosc9	exosome component 9
+50776	-2,598,628,583	ID:GO:0043226	cellular component	organelle	Polg2	polymerase (DNA directed), gamma 2, accessory subunit
+58222	-3,151,300,527	ID:GO:0043226	cellular component	organelle	Rab37	RAB37, member of RAS oncogene family
+217830	-195,734,749	ID:GO:0043226	cellular component	organelle	9030617O03Rik	RIKEN cDNA 9030617O03 gene
+17977	-0.831389853	ID:GO:0043226	cellular component	organelle	Ncoa1	nuclear receptor coactivator 1
+22295	-0.629855255	ID:GO:0043226	cellular component	organelle	Cdh23	cadherin 23 (otocadherin)
+329650	-2,040,645,338	ID:GO:0043226	cellular component	organelle	Med12l	mediator of RNA polymerase II transcription, subunit 12 homolog (yeast)-like
+14058	-5,347,263,647	ID:GO:0043226	cellular component	organelle	F10	coagulation factor X
+19267	-1,909,516,816	ID:GO:0043226	cellular component	organelle	Ptpre	protein tyrosine phosphatase, receptor type, E
+234404	-3,107,734,023	ID:GO:0043226	cellular component	organelle	Nxnl1	nucleoredoxin-like 1
+110877	-106,020,909	ID:GO:0043226	cellular component	organelle	Slc18a1	solute carrier family 18 (vesicular monoamine), member 1
+21745	-1,394,832,537	ID:GO:0043226	cellular component	organelle	Tep1	telomerase associated protein 1
+26938	-3,161,064,813	ID:GO:0043226	cellular component	organelle	St6galnac5	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 5
+229898	-2,183,705,812	ID:GO:0043226	cellular component	organelle	Gbp5	guanylate binding protein 5
+13057	-2,126,530,551	ID:GO:0043226	cellular component	organelle	Cyba	cytochrome b-245, alpha polypeptide
+18968	-0.871308665	ID:GO:0043226	cellular component	organelle	Pola1	polymerase (DNA directed), alpha 1
+70625	-0.563268187	ID:GO:0043226	cellular component	organelle	Med26	mediator complex subunit 26
+19156	-252,092,146	ID:GO:0043226	cellular component	organelle	Psap	prosaposin
+70059	-1,075,280,865	ID:GO:0043226	cellular component	organelle	Degs2	degenerative spermatocyte homolog 2 (Drosophila), lipid desaturase
+20846	-3,616,517,729	ID:GO:0043226	cellular component	organelle	Stat1	signal transducer and activator of transcription 1
+234155	-0.655440988	ID:GO:0043226	cellular component	organelle	Mboat4	membrane bound O-acyltransferase domain containing 4
+11744	-5,424,446,375	ID:GO:0043226	cellular component	organelle	Anxa11	annexin A11
+20964	-416,652,672	ID:GO:0043226	cellular component	organelle	Syn1	synapsin I
+14998	-3,408,702,404	ID:GO:0043226	cellular component	organelle	H2-DMa	histocompatibility 2, class II, locus DMa
+270163	-1,501,107,828	ID:GO:0043226	cellular component	organelle	Myo9a	myosin IXa
+101706	-2,547,934,415	ID:GO:0043226	cellular component	organelle	Numa1	nuclear mitotic apparatus protein 1
+13039	-1,714,981,311	ID:GO:0043226	cellular component	organelle	Ctsl	cathepsin L
+109032	-3,073,923,615	ID:GO:0043226	cellular component	organelle	Sp110	Sp110 nuclear body protein
+74281	-1,599,534,867	ID:GO:0043226	cellular component	organelle	Spatc1	spermatogenesis and centriole associated 1
+14468	-2,488,940,631	ID:GO:0043226	cellular component	organelle	Gbp1	guanylate binding protein 1
+208624	-235,246,123	ID:GO:0043226	cellular component	organelle	Alg3	asparagine-linked glycosylation 3 (alpha-1,3-mannosyltransferase)
+106628	-0.451533928	ID:GO:0043226	cellular component	organelle	Trip10	thyroid hormone receptor interactor 10
+50917	-0.856539613	ID:GO:0043226	cellular component	organelle	Galns	galactosamine (N-acetyl)-6-sulfate sulfatase
+20715	-4,877,555,382	ID:GO:0043226	cellular component	organelle	Serpina3g	serine (or cysteine) peptidase inhibitor, clade A, member 3G
+268465	-0.836263986	ID:GO:0043226	cellular component	organelle	Eme1	essential meiotic endonuclease 1 homolog 1 (S. pombe)
+16151	-1,118,701,758	ID:GO:0043226	cellular component	organelle	Ikbkg	inhibitor of kappaB kinase gamma
+17121	-0.739327438	ID:GO:0043226	cellular component	organelle	Mxd3	Max dimerization protein 3
+13032	-2,416,431,073	ID:GO:0043226	cellular component	organelle	Ctsc	cathepsin C
+207854	-2,766,015,336	ID:GO:0043226	cellular component	organelle	Fmr1nb	fragile X mental retardation 1 neighbor
+18975	-165,567,466	ID:GO:0043226	cellular component	organelle	Polg	polymerase (DNA directed), gamma
+56012	-0.954387674	ID:GO:0043226	cellular component	organelle	Pgam2	phosphoglycerate mutase 2
+21406	-0.882199271	ID:GO:0043226	cellular component	organelle	Tcf12	transcription factor 12
+226153	-0.461720456	ID:GO:0043226	cellular component	organelle	Peo1	progressive external ophthalmoplegia 1 (human)
+18701	-0.77859174	ID:GO:0043226	cellular component	organelle	Pigf	phosphatidylinositol glycan anchor biosynthesis, class F
+14469	-311,559,417	ID:GO:0043226	cellular component	organelle	Gbp2	guanylate binding protein 2
+55932	-3,136,039,291	ID:GO:0043226	cellular component	organelle	Gbp3	guanylate binding protein 3
+19367	-0.482433019	ID:GO:0043226	cellular component	organelle	Rad9	RAD9 homolog (S. pombe)
+353211	-2,071,168,981	ID:GO:0043226	cellular component	organelle	Prune2	prune homolog 2 (Drosophila)
+12399	-3,157,436,079	ID:GO:0043226	cellular component	organelle	Runx3	runt related transcription factor 3
+208263	-1,136,517,918	ID:GO:0043226	cellular component	organelle	Tor1aip1	torsin A interacting protein 1
+224020	-0.880621811	ID:GO:0043226	cellular component	organelle	Pi4ka	phosphatidylinositol 4-kinase, catalytic, alpha polypeptide
+23880	-3,329,677,062	ID:GO:0043226	cellular component	organelle	Fyb	FYN binding protein
+15163	-296,743,432	ID:GO:0043226	cellular component	organelle	Hcls1	hematopoietic cell specific Lyn substrate 1
+68703	-0.498380197	ID:GO:0043226	cellular component	organelle	Rere	arginine glutamic acid dipeptide (RE) repeats
+16912	-2,190,403,138	ID:GO:0043226	cellular component	organelle	Psmb9	proteasome (prosome, macropain) subunit, beta type 9 (large multifunctional peptidase 2)
+67049	-0.792099418	ID:GO:0043226	cellular component	organelle	Pus3	pseudouridine synthase 3
+27061	-0.801184737	ID:GO:0043226	cellular component	organelle	Bcap31	B cell receptor associated protein 31
+15958	-1,820,726,496	ID:GO:0043226	cellular component	organelle	Ifit2	interferon-induced protein with tetratricopeptide repeats 2
+14660	-1,392,216,045	ID:GO:0043226	cellular component	organelle	Gls	glutaminase
+56463	-1,409,067,888	ID:GO:0043226	cellular component	organelle	Snd1	staphylococcal nuclease and tudor domain containing 1
+76916	-2,873,623,569	ID:GO:0043226	cellular component	organelle	Timmdc1	translocase of inner mitochondrial membrane domain containing 1
+544817	-0.988623848	ID:GO:0043226	cellular component	organelle	Arhgap27	Rho GTPase activating protein 27
+209707	-2,004,027,824	ID:GO:0043226	cellular component	organelle	Lcorl	ligand dependent nuclear receptor corepressor-like
+28113	-0.644271013	ID:GO:0043226	cellular component	organelle	Tinf2	Terf1 (TRF1)-interacting nuclear factor 2
+382252	-0.895090482	ID:GO:0043226	cellular component	organelle	A830080D01Rik	RIKEN cDNA A830080D01 gene
+237625	-2,747,348,273	ID:GO:0043226	cellular component	organelle	Pla2g3	phospholipase A2, group III
+14087	-0.966889988	ID:GO:0043226	cellular component	organelle	Fanca	Fanconi anemia, complementation group A
+106585	-1,006,787,449	ID:GO:0043226	cellular component	organelle	Ankrd12	ankyrin repeat domain 12
+15450	-0.552116241	ID:GO:0043226	cellular component	organelle	Lipc	lipase, hepatic
+27632	-3,728,870,942	ID:GO:0043226	cellular component	organelle	Rdbp	RD RNA-binding protein
+60440	-5,253,773,488	ID:GO:0043226	cellular component	organelle	Iigp1	interferon inducible GTPase 1
+21354	-3,999,426,366	ID:GO:0043226	cellular component	organelle	Tap1	transporter 1, ATP-binding cassette, sub-family B (MDR/TAP)
+56310	-0.649304793	ID:GO:0043226	cellular component	organelle	Gps2	G protein pathway suppressor 2
+74691	-2,085,718,475	ID:GO:0043226	cellular component	organelle	Tdrd9	tudor domain containing 9
+240832	-0.624316219	ID:GO:0043226	cellular component	organelle	Tor1aip2	torsin A interacting protein 2
+16409	-5,617,443,944	ID:GO:0043226	cellular component	organelle	Itgam	integrin alpha M
+17281	-4,279,117,753	ID:GO:0043226	cellular component	organelle	Fyco1	FYVE and coiled-coil domain containing 1
+110312	-264,600,914	ID:GO:0043226	cellular component	organelle	Pmch	pro-melanin-concentrating hormone
+19645	-0.625310617	ID:GO:0043226	cellular component	organelle	Rb1	retinoblastoma 1
+14961	-372,305,297	ID:GO:0043226	cellular component	organelle	H2-Ab1	histocompatibility 2, class II antigen A, beta 1
+18015	-0.74619692	ID:GO:0043226	cellular component	organelle	Nf1	neurofibromatosis 1
+17420	-0.745044399	ID:GO:0043226	cellular component	organelle	Mnat1	menage a trois 1
+68038	-0.979446783	ID:GO:0043226	cellular component	organelle	Chid1	chitinase domain containing 1
+230734	-1,464,737,059	ID:GO:0043226	cellular component	organelle	Yrdc	yrdC domain containing (E.coli)
+69694	-0.655954325	ID:GO:0043226	cellular component	organelle	Tatdn1	TatD DNase domain containing 1
+574428	-289,843,243	ID:GO:0043226	cellular component	organelle	Zmynd15	zinc finger, MYND-type containing 15
+21376	-1,166,761,739	ID:GO:0043226	cellular component	organelle	Tbrg1	transforming growth factor beta regulated gene 1
+66797	-1,344,768,099	ID:GO:0043226	cellular component	organelle	Cntnap2	contactin associated protein-like 2
+70772	-1,982,667,793	ID:GO:0043226	cellular component	organelle	Ggnbp1	gametogenetin binding protein 1
+192156	-3,018,598,011	ID:GO:0043226	cellular component	organelle	Mvd	mevalonate (diphospho) decarboxylase
+229900	-2,373,632,204	ID:GO:0043226	cellular component	organelle	Gbp7	guanylate binding protein 7
+109154	-1,481,505,012	ID:GO:0043226	cellular component	organelle	Mlec	malectin
+12014	-3,293,731,805	ID:GO:0043226	cellular component	organelle	Bach2	BTB and CNC homology 2
+236573	-2,240,651,301	ID:GO:0043226	cellular component	organelle	Gbp9	guanylate-binding protein 9
+24061	-1,230,672,256	ID:GO:0043226	cellular component	organelle	Smc1a	structural maintenance of chromosomes 1A
+13858	-0.881377287	ID:GO:0043226	cellular component	organelle	Eps15	epidermal growth factor receptor pathway substrate 15
+69253	-0.847539208	ID:GO:0043226	cellular component	organelle	Hspb2	heat shock protein 2
+231637	-2,622,135,492	ID:GO:0043226	cellular component	organelle	Ssh1	slingshot homolog 1 (Drosophila)
+235435	-1,400,669,923	ID:GO:0043226	cellular component	organelle	Lctl	lactase-like
+80285	-2,630,177,389	ID:GO:0043226	cellular component	organelle	Parp9	poly (ADP-ribose) polymerase family, member 9
+18703	-1,863,808,424	ID:GO:0043226	cellular component	organelle	Pigr	polymeric immunoglobulin receptor
+66884	-0.991915594	ID:GO:0043226	cellular component	organelle	Appbp2	amyloid beta precursor protein (cytoplasmic tail) binding protein 2
+16149	-2,142,415,232	ID:GO:0043226	cellular component	organelle	Cd74	CD74 antigen (invariant polypeptide of major histocompatibility complex, class II antigen-associated)
+17105	-1,597,453,869	ID:GO:0043226	cellular component	organelle	Lyz2	lysozyme 2
+12361	-0.74971326	ID:GO:0043226	cellular component	organelle	Cask	calcium/calmodulin-dependent serine protein kinase (MAGUK family)
+14375	-0.664844944	ID:GO:0043226	cellular component	organelle	Xrcc6	X-ray repair complementing defective repair in Chinese hamster cells 6
+14960	-2,633,476,063	ID:GO:0043226	cellular component	organelle	H2-Aa	histocompatibility 2, class II antigen A, alpha
+66576	-0.774017011	ID:GO:0043226	cellular component	organelle	Uqcrh	ubiquinol-cytochrome c reductase hinge protein
+14804	-1,126,160,128	ID:GO:0043226	cellular component	organelle	Grid2	glutamate receptor, ionotropic, delta 2
+320806	-1,699,992,936	ID:GO:0043226	cellular component	organelle	Gfm2	G elongation factor, mitochondrial 2
+66213	-4,430,588,686	ID:GO:0043226	cellular component	organelle	Med7	mediator complex subunit 7
+231474	-1,009,943,374	ID:GO:0043226	cellular component	organelle	Paqr3	progestin and adipoQ receptor family member III
+67116	-0.949469642	ID:GO:0043226	cellular component	organelle	Cuedc2	CUE domain containing 2
+59027	-3,065,632,816	ID:GO:0043226	cellular component	organelle	Nampt	nicotinamide phosphoribosyltransferase
+21819	-1,952,767,713	ID:GO:0043226	cellular component	organelle	Tg	thyroglobulin
+17118	-1,072,961,834	ID:GO:0043226	cellular component	organelle	Marcks	myristoylated alanine rich protein kinase C substrate
+59056	-1,586,319,052	ID:GO:0043226	cellular component	organelle	Evc	Ellis van Creveld gene syndrome
+18969	-3,328,854,918	ID:GO:0043226	cellular component	organelle	Pola2	polymerase (DNA directed), alpha 2
+94067	-4,000,621,192	ID:GO:0043226	cellular component	organelle	Mrpl43	mitochondrial ribosomal protein L43
+216549	-312,457,566	ID:GO:0043226	cellular component	organelle	Aftph	aftiphilin
+19386	-1,934,192,751	ID:GO:0043226	cellular component	organelle	Ranbp2	RAN binding protein 2
+75593	-2,267,126,779	ID:GO:0043226	cellular component	organelle	2410003K15Rik	RIKEN cDNA 2410003K15 gene
+12380	-0.764130612	ID:GO:0043226	cellular component	organelle	Cast	calpastatin
+230584	-1,474,490,129	ID:GO:0043226	cellular component	organelle	Yipf1	Yip1 domain family, member 1
+17318	-2,752,528,993	ID:GO:0043226	cellular component	organelle	Mid1	midline 1
+13033	-2,100,754,506	ID:GO:0043226	cellular component	organelle	Ctsd	cathepsin D
+319651	-0.6345765	ID:GO:0043226	cellular component	organelle	Usp37	ubiquitin specific peptidase 37
+14969	-3,840,369,923	ID:GO:0043226	cellular component	organelle	H2-Eb1	histocompatibility 2, class II antigen E beta
+54396	-3,218,661,296	ID:GO:0043226	cellular component	organelle	Irgm2	immunity-related GTPase family M member 2
+270076	-1,173,352,379	ID:GO:0043226	cellular component	organelle	Gcdh	glutaryl-Coenzyme A dehydrogenase
+13411	-1,150,614,207	ID:GO:0043226	cellular component	organelle	Dnahc11	dynein, axonemal, heavy chain 11
+52563	-2,444,485,009	ID:GO:0043226	cellular component	organelle	Cdc23	CDC23 cell division cycle 23
+21938	-379,562,004	ID:GO:0043226	cellular component	organelle	Tnfrsf1b	tumor necrosis factor receptor superfamily, member 1b
+353502	-114,843,091	ID:GO:0043226	cellular component	organelle	Hcfc1r1	host cell factor C1 regulator 1 (XPO1-dependent)
+18034	-1,556,616,271	ID:GO:0043226	cellular component	organelle	Nfkb2	nuclear factor of kappa light polypeptide gene enhancer in B cells 2, p49/p100
+69926	-0.567599521	ID:GO:0043226	cellular component	organelle	Dnahc17	dynein, axonemal, heavy chain 17
+544963	-1,089,638,628	ID:GO:0043226	cellular component	organelle	Iqgap2	IQ motif containing GTPase activating protein 2
+110821	-2,132,179,754	ID:GO:0043226	cellular component	organelle	Pcca	propionyl-Coenzyme A carboxylase, alpha polypeptide
+234356	-1,157,771,946	ID:GO:0043226	cellular component	organelle	Csgalnact1	chondroitin sulfate N-acetylgalactosaminyltransferase 1
+57247	-2,048,299,545	ID:GO:0043226	cellular component	organelle	Zfp276	zinc finger protein (C2H2 type) 276
+68607	-0.568820516	ID:GO:0043226	cellular component	organelle	Serhl	serine hydrolase-like
+19713	-0.824812714	ID:GO:0043226	cellular component	organelle	Ret	ret proto-oncogene
+66118	-0.774022365	ID:GO:0043226	cellular component	organelle	Sarnp	SAP domain containing ribonucleoprotein
+80877	-1,506,509,221	ID:GO:0043226	cellular component	organelle	Lrba	LPS-responsive beige-like anchor
+72656	-2,034,729,848	ID:GO:0043226	cellular component	organelle	Ints8	integrator complex subunit 8
+12332	-4,454,146,213	ID:GO:0043226	cellular component	organelle	Capg	capping protein (actin filament), gelsolin-like
+12654	-1,515,090,263	ID:GO:0043226	cellular component	organelle	Chi3l1	chitinase 3-like 1
+654470	-2,808,809,273	ID:GO:0043226	cellular component	organelle	Tctn1	tectonic family member 1
+94112	-1,468,635,088	ID:GO:0043226	cellular component	organelle	Med15	mediator complex subunit 15
+57908	-3,003,084,272	ID:GO:0043226	cellular component	organelle	Zfp318	zinc finger protein 318
+11569	-2,508,971,914	ID:GO:0043226	cellular component	organelle	Aebp2	AE binding protein 2
+56215	-0.803713411	ID:GO:0043226	cellular component	organelle	Acin1	apoptotic chromatin condensation inducer 1
+75572	-0.93498585	ID:GO:0043226	cellular component	organelle	Acyp2	acylphosphatase 2, muscle type
+15944	-3,945,389,188	ID:GO:0043226	cellular component	organelle	Irgm1	immunity-related GTPase family M member 1
+234094	-2,926,275,436	ID:GO:0043226	cellular component	organelle	Arhgef10	Rho guanine nucleotide exchange factor (GEF) 10
+67963	-0.96526511	ID:GO:0043226	cellular component	organelle	Npc2	Niemann Pick type C2
+74114	-0.844290991	ID:GO:0043226	cellular component	organelle	Crot	carnitine O-octanoyltransferase
+58799	-0.526710604	ID:GO:0043226	cellular component	organelle	Crbn	cereblon
+108086	-2,046,780,569	ID:GO:0043226	cellular component	organelle	Rnf216	ring finger protein 216
+17193	-3,298,649,237	ID:GO:0043226	cellular component	organelle	Mbd4	methyl-CpG binding domain protein 4
+66531	-0.899620288	ID:GO:0043226	cellular component	organelle	2310061C15Rik	RIKEN cDNA 2310061C15 gene
+104318	-281,260,762	ID:GO:0043226	cellular component	organelle	Csnk1d	casein kinase 1, delta
+13040	-3,758,526,511	ID:GO:0043226	cellular component	organelle	Ctss	cathepsin S
+52705	-1,943,859,976	ID:GO:0043226	cellular component	organelle	Krr1	KRR1, small subunit (SSU) processome component, homolog (yeast)
+100532	-0.571833377	ID:GO:0043226	cellular component	organelle	Rell1	RELT-like 1
+106025	-2,197,927,676	ID:GO:0043226	cellular component	organelle	Sharpin	SHANK-associated RH domain interacting protein
+98170	-1,998,246,003	ID:GO:0043226	cellular component	organelle	Tmem132a	transmembrane protein 132A
+12524	-3,370,535,919	ID:GO:0043226	cellular component	organelle	Cd86	CD86 antigen
+12752	-1,812,724,069	ID:GO:0043226	cellular component	organelle	Cln3	ceroid lipofuscinosis, neuronal 3, juvenile (Batten, Spielmeyer-Vogt disease)
+93675	-3,070,034,797	ID:GO:0043226	cellular component	organelle	Clec2i	C-type lectin domain family 2, member i
+70350	-2,399,954,375	ID:GO:0043226	cellular component	organelle	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0043226	cellular component	organelle	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0043226	cellular component	organelle	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0009897	cellular component	external side of plasma membrane	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0009897	cellular component	external side of plasma membrane	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0009897	cellular component	external side of plasma membrane	Basp1	brain abundant, membrane attached signal protein 1
+14964	-2,507,732,371	ID:GO:0009897	cellular component	external side of plasma membrane	H2-D1	histocompatibility 2, D region locus 1
+16409	-5,617,443,944	ID:GO:0009897	cellular component	external side of plasma membrane	Itgam	integrin alpha M
+13039	-1,714,981,311	ID:GO:0009897	cellular component	external side of plasma membrane	Ctsl	cathepsin L
+14972	-2,081,901,606	ID:GO:0009897	cellular component	external side of plasma membrane	H2-K1	histocompatibility 2, K1, K region
+14969	-3,840,369,923	ID:GO:0009897	cellular component	external side of plasma membrane	H2-Eb1	histocompatibility 2, class II antigen E beta
+14960	-2,633,476,063	ID:GO:0009897	cellular component	external side of plasma membrane	H2-Aa	histocompatibility 2, class II antigen A, alpha
+56644	-3,622,075,881	ID:GO:0009897	cellular component	external side of plasma membrane	Clec7a	C-type lectin domain family 7, member a
+12317	-1,027,705,564	ID:GO:0009897	cellular component	external side of plasma membrane	Calr	calreticulin
+14961	-372,305,297	ID:GO:0009897	cellular component	external side of plasma membrane	H2-Ab1	histocompatibility 2, class II antigen A, beta 1
+17329	-774,327,532	ID:GO:0009897	cellular component	external side of plasma membrane	Cxcl9	chemokine (C-X-C motif) ligand 9
+16149	-2,142,415,232	ID:GO:0009897	cellular component	external side of plasma membrane	Cd74	CD74 antigen (invariant polypeptide of major histocompatibility complex, class II antigen-associated)
+12524	-3,370,535,919	ID:GO:0009897	cellular component	external side of plasma membrane	Cd86	CD86 antigen
+93675	-3,070,034,797	ID:GO:0009897	cellular component	external side of plasma membrane	Clec2i	C-type lectin domain family 2, member i
+16407	-2,396,144,614	ID:GO:0009897	cellular component	external side of plasma membrane	Itgae	integrin alpha E, epithelial-associated
+16411	-4,720,088,061	ID:GO:0009897	cellular component	external side of plasma membrane	Itgax	integrin alpha X
+16411	-4,720,088,061	ID:GO:0009897	cellular component	external side of plasma membrane	Itgax	integrin alpha X
+16411	-4,720,088,061	ID:GO:0009897	cellular component	external side of plasma membrane	Itgax	integrin alpha X
+16411	-4,720,088,061	ID:GO:0043233	cellular component	organelle lumen	Itgax	integrin alpha X
+16411	-4,720,088,061	ID:GO:0043233	cellular component	organelle lumen	Itgax	integrin alpha X
+16411	-4,720,088,061	ID:GO:0043233	cellular component	organelle lumen	Itgax	integrin alpha X
+207854	-2,766,015,336	ID:GO:0043233	cellular component	organelle lumen	Fmr1nb	fragile X mental retardation 1 neighbor
+18975	-165,567,466	ID:GO:0043233	cellular component	organelle lumen	Polg	polymerase (DNA directed), gamma
+21406	-0.882199271	ID:GO:0043233	cellular component	organelle lumen	Tcf12	transcription factor 12
+225182	-1,118,372,998	ID:GO:0043233	cellular component	organelle lumen	Rbbp8	retinoblastoma binding protein 8
+226153	-0.461720456	ID:GO:0043233	cellular component	organelle lumen	Peo1	progressive external ophthalmoplegia 1 (human)
+51786	-2,684,121,211	ID:GO:0043233	cellular component	organelle lumen	Cpsf2	cleavage and polyadenylation specific factor 2
+192156	-3,018,598,011	ID:GO:0043233	cellular component	organelle lumen	Mvd	mevalonate (diphospho) decarboxylase
+19367	-0.482433019	ID:GO:0043233	cellular component	organelle lumen	Rad9	RAD9 homolog (S. pombe)
+12317	-1,027,705,564	ID:GO:0043233	cellular component	organelle lumen	Calr	calreticulin
+12399	-3,157,436,079	ID:GO:0043233	cellular component	organelle lumen	Runx3	runt related transcription factor 3
+21425	-2,215,672,831	ID:GO:0043233	cellular component	organelle lumen	Tfeb	transcription factor EB
+13171	-0.70410374	ID:GO:0043233	cellular component	organelle lumen	Dbt	dihydrolipoamide branched chain transacylase E2
+68703	-0.498380197	ID:GO:0043233	cellular component	organelle lumen	Rere	arginine glutamic acid dipeptide (RE) repeats
+50776	-2,598,628,583	ID:GO:0043233	cellular component	organelle lumen	Polg2	polymerase (DNA directed), gamma 2, accessory subunit
+50911	-2,086,299,856	ID:GO:0043233	cellular component	organelle lumen	Exosc9	exosome component 9
+72656	-2,034,729,848	ID:GO:0043233	cellular component	organelle lumen	Ints8	integrator complex subunit 8
+12332	-4,454,146,213	ID:GO:0043233	cellular component	organelle lumen	Capg	capping protein (actin filament), gelsolin-like
+17977	-0.831389853	ID:GO:0043233	cellular component	organelle lumen	Ncoa1	nuclear receptor coactivator 1
+329650	-2,040,645,338	ID:GO:0043233	cellular component	organelle lumen	Med12l	mediator of RNA polymerase II transcription, subunit 12 homolog (yeast)-like
+17105	-1,597,453,869	ID:GO:0043233	cellular component	organelle lumen	Lyz2	lysozyme 2
+28113	-0.644271013	ID:GO:0043233	cellular component	organelle lumen	Tinf2	Terf1 (TRF1)-interacting nuclear factor 2
+21745	-1,394,832,537	ID:GO:0043233	cellular component	organelle lumen	Tep1	telomerase associated protein 1
+14087	-0.966889988	ID:GO:0043233	cellular component	organelle lumen	Fanca	Fanconi anemia, complementation group A
+12361	-0.74971326	ID:GO:0043233	cellular component	organelle lumen	Cask	calcium/calmodulin-dependent serine protein kinase (MAGUK family)
+14375	-0.664844944	ID:GO:0043233	cellular component	organelle lumen	Xrcc6	X-ray repair complementing defective repair in Chinese hamster cells 6
+94112	-1,468,635,088	ID:GO:0043233	cellular component	organelle lumen	Med15	mediator complex subunit 15
+18968	-0.871308665	ID:GO:0043233	cellular component	organelle lumen	Pola1	polymerase (DNA directed), alpha 1
+11569	-2,508,971,914	ID:GO:0043233	cellular component	organelle lumen	Aebp2	AE binding protein 2
+27632	-3,728,870,942	ID:GO:0043233	cellular component	organelle lumen	Rdbp	RD RNA-binding protein
+56215	-0.803713411	ID:GO:0043233	cellular component	organelle lumen	Acin1	apoptotic chromatin condensation inducer 1
+70625	-0.563268187	ID:GO:0043233	cellular component	organelle lumen	Med26	mediator complex subunit 26
+20846	-3,616,517,729	ID:GO:0043233	cellular component	organelle lumen	Stat1	signal transducer and activator of transcription 1
+58799	-0.526710604	ID:GO:0043233	cellular component	organelle lumen	Crbn	cereblon
+56310	-0.649304793	ID:GO:0043233	cellular component	organelle lumen	Gps2	G protein pathway suppressor 2
+11744	-5,424,446,375	ID:GO:0043233	cellular component	organelle lumen	Anxa11	annexin A11
+20964	-416,652,672	ID:GO:0043233	cellular component	organelle lumen	Syn1	synapsin I
+66213	-4,430,588,686	ID:GO:0043233	cellular component	organelle lumen	Med7	mediator complex subunit 7
+101706	-2,547,934,415	ID:GO:0043233	cellular component	organelle lumen	Numa1	nuclear mitotic apparatus protein 1
+13039	-1,714,981,311	ID:GO:0043233	cellular component	organelle lumen	Ctsl	cathepsin L
+109032	-3,073,923,615	ID:GO:0043233	cellular component	organelle lumen	Sp110	Sp110 nuclear body protein
+52705	-1,943,859,976	ID:GO:0043233	cellular component	organelle lumen	Krr1	KRR1, small subunit (SSU) processome component, homolog (yeast)
+19645	-0.625310617	ID:GO:0043233	cellular component	organelle lumen	Rb1	retinoblastoma 1
+18969	-3,328,854,918	ID:GO:0043233	cellular component	organelle lumen	Pola2	polymerase (DNA directed), alpha 2
+94067	-4,000,621,192	ID:GO:0043233	cellular component	organelle lumen	Mrpl43	mitochondrial ribosomal protein L43
+17420	-0.745044399	ID:GO:0043233	cellular component	organelle lumen	Mnat1	menage a trois 1
+70350	-2,399,954,375	ID:GO:0043233	cellular component	organelle lumen	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0043233	cellular component	organelle lumen	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0043233	cellular component	organelle lumen	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Basp1	brain abundant, membrane attached signal protein 1
+65963	-0.550852798	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Tmem176b	transmembrane protein 176B
+29877	-0.940175471	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Hdgfrp3	hepatoma-derived growth factor, related protein 3
+225182	-1,118,372,998	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Rbbp8	retinoblastoma binding protein 8
+15516	-0.758841241	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Hsp90ab1	heat shock protein 90 alpha (cytosolic), class B member 1
+53612	-2,916,580,217	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Vti1b	vesicle transport through interaction with t-SNAREs 1B homolog
+76485	-0.861013141	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Glt8d1	glycosyltransferase 8 domain containing 1
+51786	-2,684,121,211	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Cpsf2	cleavage and polyadenylation specific factor 2
+14319	-1,669,659,207	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Fth1	ferritin heavy chain 1
+106931	-0.599167868	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Kctd1	potassium channel tetramerisation domain containing 1
+69089	-0.922586173	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Oxa1l	oxidase assembly 1-like
+12317	-1,027,705,564	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Calr	calreticulin
+83490	-2,549,074,545	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Pik3ap1	phosphoinositide-3-kinase adaptor protein 1
+67883	-2,473,083,939	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Uxs1	UDP-glucuronate decarboxylase 1
+18552	-0.775217622	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Pcsk5	proprotein convertase subtilisin/kexin type 5
+71562	-2,513,248,527	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Afmid	arylformamidase
+21425	-2,215,672,831	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Tfeb	transcription factor EB
+13171	-0.70410374	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Dbt	dihydrolipoamide branched chain transacylase E2
+208628	-6,497,557,543	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Kntc1	kinetochore associated 1
+57813	-2,230,136,014	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Tk2	thymidine kinase 2, mitochondrial
+56404	-2,476,877,465	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Trip4	thyroid hormone receptor interactor 4
+100503185	-0.840208521	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Btbd8	BTB (POZ) domain containing 8
+52683	-0.682639009	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Ncaph2	non-SMC condensin II complex, subunit H2
+50911	-2,086,299,856	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Exosc9	exosome component 9
+50776	-2,598,628,583	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Polg2	polymerase (DNA directed), gamma 2, accessory subunit
+58222	-3,151,300,527	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Rab37	RAB37, member of RAS oncogene family
+217830	-195,734,749	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	9030617O03Rik	RIKEN cDNA 9030617O03 gene
+17977	-0.831389853	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Ncoa1	nuclear receptor coactivator 1
+14058	-5,347,263,647	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	F10	coagulation factor X
+329650	-2,040,645,338	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Med12l	mediator of RNA polymerase II transcription, subunit 12 homolog (yeast)-like
+19267	-1,909,516,816	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Ptpre	protein tyrosine phosphatase, receptor type, E
+234404	-3,107,734,023	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Nxnl1	nucleoredoxin-like 1
+21745	-1,394,832,537	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Tep1	telomerase associated protein 1
+26938	-3,161,064,813	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	St6galnac5	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 5
+13057	-2,126,530,551	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Cyba	cytochrome b-245, alpha polypeptide
+18968	-0.871308665	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Pola1	polymerase (DNA directed), alpha 1
+70625	-0.563268187	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Med26	mediator complex subunit 26
+19156	-252,092,146	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Psap	prosaposin
+70059	-1,075,280,865	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Degs2	degenerative spermatocyte homolog 2 (Drosophila), lipid desaturase
+20846	-3,616,517,729	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Stat1	signal transducer and activator of transcription 1
+234155	-0.655440988	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Mboat4	membrane bound O-acyltransferase domain containing 4
+11744	-5,424,446,375	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Anxa11	annexin A11
+20964	-416,652,672	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Syn1	synapsin I
+14998	-3,408,702,404	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	H2-DMa	histocompatibility 2, class II, locus DMa
+101706	-2,547,934,415	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Numa1	nuclear mitotic apparatus protein 1
+13039	-1,714,981,311	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Ctsl	cathepsin L
+109032	-3,073,923,615	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Sp110	Sp110 nuclear body protein
+208624	-235,246,123	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Alg3	asparagine-linked glycosylation 3 (alpha-1,3-mannosyltransferase)
+106628	-0.451533928	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Trip10	thyroid hormone receptor interactor 10
+50917	-0.856539613	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Galns	galactosamine (N-acetyl)-6-sulfate sulfatase
+20715	-4,877,555,382	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Serpina3g	serine (or cysteine) peptidase inhibitor, clade A, member 3G
+268465	-0.836263986	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Eme1	essential meiotic endonuclease 1 homolog 1 (S. pombe)
+16151	-1,118,701,758	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Ikbkg	inhibitor of kappaB kinase gamma
+17121	-0.739327438	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Mxd3	Max dimerization protein 3
+13032	-2,416,431,073	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Ctsc	cathepsin C
+207854	-2,766,015,336	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Fmr1nb	fragile X mental retardation 1 neighbor
+18975	-165,567,466	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Polg	polymerase (DNA directed), gamma
+56012	-0.954387674	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Pgam2	phosphoglycerate mutase 2
+21406	-0.882199271	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Tcf12	transcription factor 12
+226153	-0.461720456	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Peo1	progressive external ophthalmoplegia 1 (human)
+18701	-0.77859174	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Pigf	phosphatidylinositol glycan anchor biosynthesis, class F
+19367	-0.482433019	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Rad9	RAD9 homolog (S. pombe)
+353211	-2,071,168,981	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Prune2	prune homolog 2 (Drosophila)
+12399	-3,157,436,079	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Runx3	runt related transcription factor 3
+208263	-1,136,517,918	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Tor1aip1	torsin A interacting protein 1
+224020	-0.880621811	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Pi4ka	phosphatidylinositol 4-kinase, catalytic, alpha polypeptide
+23880	-3,329,677,062	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Fyb	FYN binding protein
+15163	-296,743,432	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Hcls1	hematopoietic cell specific Lyn substrate 1
+68703	-0.498380197	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Rere	arginine glutamic acid dipeptide (RE) repeats
+16912	-2,190,403,138	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Psmb9	proteasome (prosome, macropain) subunit, beta type 9 (large multifunctional peptidase 2)
+67049	-0.792099418	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Pus3	pseudouridine synthase 3
+27061	-0.801184737	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Bcap31	B cell receptor associated protein 31
+15958	-1,820,726,496	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Ifit2	interferon-induced protein with tetratricopeptide repeats 2
+14660	-1,392,216,045	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Gls	glutaminase
+56463	-1,409,067,888	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Snd1	staphylococcal nuclease and tudor domain containing 1
+76916	-2,873,623,569	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Timmdc1	translocase of inner mitochondrial membrane domain containing 1
+544817	-0.988623848	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Arhgap27	Rho GTPase activating protein 27
+209707	-2,004,027,824	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Lcorl	ligand dependent nuclear receptor corepressor-like
+28113	-0.644271013	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Tinf2	Terf1 (TRF1)-interacting nuclear factor 2
+382252	-0.895090482	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	A830080D01Rik	RIKEN cDNA A830080D01 gene
+14087	-0.966889988	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Fanca	Fanconi anemia, complementation group A
+106585	-1,006,787,449	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Ankrd12	ankyrin repeat domain 12
+15450	-0.552116241	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Lipc	lipase, hepatic
+27632	-3,728,870,942	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Rdbp	RD RNA-binding protein
+60440	-5,253,773,488	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Iigp1	interferon inducible GTPase 1
+21354	-3,999,426,366	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Tap1	transporter 1, ATP-binding cassette, sub-family B (MDR/TAP)
+56310	-0.649304793	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Gps2	G protein pathway suppressor 2
+74691	-2,085,718,475	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Tdrd9	tudor domain containing 9
+240832	-0.624316219	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Tor1aip2	torsin A interacting protein 2
+16409	-5,617,443,944	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Itgam	integrin alpha M
+17281	-4,279,117,753	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Fyco1	FYVE and coiled-coil domain containing 1
+110312	-264,600,914	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Pmch	pro-melanin-concentrating hormone
+19645	-0.625310617	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Rb1	retinoblastoma 1
+14961	-372,305,297	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	H2-Ab1	histocompatibility 2, class II antigen A, beta 1
+18015	-0.74619692	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Nf1	neurofibromatosis 1
+17420	-0.745044399	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Mnat1	menage a trois 1
+68038	-0.979446783	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Chid1	chitinase domain containing 1
+230734	-1,464,737,059	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Yrdc	yrdC domain containing (E.coli)
+69694	-0.655954325	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Tatdn1	TatD DNase domain containing 1
+574428	-289,843,243	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Zmynd15	zinc finger, MYND-type containing 15
+21376	-1,166,761,739	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Tbrg1	transforming growth factor beta regulated gene 1
+66797	-1,344,768,099	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Cntnap2	contactin associated protein-like 2
+70772	-1,982,667,793	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Ggnbp1	gametogenetin binding protein 1
+192156	-3,018,598,011	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Mvd	mevalonate (diphospho) decarboxylase
+109154	-1,481,505,012	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Mlec	malectin
+12014	-3,293,731,805	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Bach2	BTB and CNC homology 2
+24061	-1,230,672,256	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Smc1a	structural maintenance of chromosomes 1A
+13858	-0.881377287	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Eps15	epidermal growth factor receptor pathway substrate 15
+69253	-0.847539208	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Hspb2	heat shock protein 2
+235435	-1,400,669,923	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Lctl	lactase-like
+80285	-2,630,177,389	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Parp9	poly (ADP-ribose) polymerase family, member 9
+18703	-1,863,808,424	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Pigr	polymeric immunoglobulin receptor
+66884	-0.991915594	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Appbp2	amyloid beta precursor protein (cytoplasmic tail) binding protein 2
+16149	-2,142,415,232	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Cd74	CD74 antigen (invariant polypeptide of major histocompatibility complex, class II antigen-associated)
+17105	-1,597,453,869	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Lyz2	lysozyme 2
+12361	-0.74971326	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Cask	calcium/calmodulin-dependent serine protein kinase (MAGUK family)
+14375	-0.664844944	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Xrcc6	X-ray repair complementing defective repair in Chinese hamster cells 6
+14960	-2,633,476,063	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	H2-Aa	histocompatibility 2, class II antigen A, alpha
+66576	-0.774017011	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Uqcrh	ubiquinol-cytochrome c reductase hinge protein
+320806	-1,699,992,936	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Gfm2	G elongation factor, mitochondrial 2
+66213	-4,430,588,686	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Med7	mediator complex subunit 7
+231474	-1,009,943,374	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Paqr3	progestin and adipoQ receptor family member III
+67116	-0.949469642	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Cuedc2	CUE domain containing 2
+59027	-3,065,632,816	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Nampt	nicotinamide phosphoribosyltransferase
+21819	-1,952,767,713	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Tg	thyroglobulin
+17118	-1,072,961,834	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Marcks	myristoylated alanine rich protein kinase C substrate
+18969	-3,328,854,918	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Pola2	polymerase (DNA directed), alpha 2
+94067	-4,000,621,192	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Mrpl43	mitochondrial ribosomal protein L43
+216549	-312,457,566	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Aftph	aftiphilin
+19386	-1,934,192,751	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Ranbp2	RAN binding protein 2
+75593	-2,267,126,779	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	2410003K15Rik	RIKEN cDNA 2410003K15 gene
+12380	-0.764130612	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Cast	calpastatin
+230584	-1,474,490,129	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Yipf1	Yip1 domain family, member 1
+13033	-2,100,754,506	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Ctsd	cathepsin D
+319651	-0.6345765	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Usp37	ubiquitin specific peptidase 37
+14969	-3,840,369,923	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	H2-Eb1	histocompatibility 2, class II antigen E beta
+54396	-3,218,661,296	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Irgm2	immunity-related GTPase family M member 2
+270076	-1,173,352,379	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Gcdh	glutaryl-Coenzyme A dehydrogenase
+13411	-1,150,614,207	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Dnahc11	dynein, axonemal, heavy chain 11
+52563	-2,444,485,009	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Cdc23	CDC23 cell division cycle 23
+21938	-379,562,004	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Tnfrsf1b	tumor necrosis factor receptor superfamily, member 1b
+353502	-114,843,091	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Hcfc1r1	host cell factor C1 regulator 1 (XPO1-dependent)
+18034	-1,556,616,271	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Nfkb2	nuclear factor of kappa light polypeptide gene enhancer in B cells 2, p49/p100
+110821	-2,132,179,754	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Pcca	propionyl-Coenzyme A carboxylase, alpha polypeptide
+234356	-1,157,771,946	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Csgalnact1	chondroitin sulfate N-acetylgalactosaminyltransferase 1
+57247	-2,048,299,545	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Zfp276	zinc finger protein (C2H2 type) 276
+68607	-0.568820516	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Serhl	serine hydrolase-like
+19713	-0.824812714	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Ret	ret proto-oncogene
+66118	-0.774022365	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Sarnp	SAP domain containing ribonucleoprotein
+80877	-1,506,509,221	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Lrba	LPS-responsive beige-like anchor
+72656	-2,034,729,848	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Ints8	integrator complex subunit 8
+12332	-4,454,146,213	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Capg	capping protein (actin filament), gelsolin-like
+12654	-1,515,090,263	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Chi3l1	chitinase 3-like 1
+94112	-1,468,635,088	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Med15	mediator complex subunit 15
+57908	-3,003,084,272	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Zfp318	zinc finger protein 318
+11569	-2,508,971,914	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Aebp2	AE binding protein 2
+56215	-0.803713411	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Acin1	apoptotic chromatin condensation inducer 1
+75572	-0.93498585	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Acyp2	acylphosphatase 2, muscle type
+15944	-3,945,389,188	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Irgm1	immunity-related GTPase family M member 1
+67963	-0.96526511	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Npc2	Niemann Pick type C2
+74114	-0.844290991	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Crot	carnitine O-octanoyltransferase
+58799	-0.526710604	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Crbn	cereblon
+108086	-2,046,780,569	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Rnf216	ring finger protein 216
+17193	-3,298,649,237	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Mbd4	methyl-CpG binding domain protein 4
+66531	-0.899620288	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	2310061C15Rik	RIKEN cDNA 2310061C15 gene
+104318	-281,260,762	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Csnk1d	casein kinase 1, delta
+13040	-3,758,526,511	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Ctss	cathepsin S
+52705	-1,943,859,976	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Krr1	KRR1, small subunit (SSU) processome component, homolog (yeast)
+98170	-1,998,246,003	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Tmem132a	transmembrane protein 132A
+12524	-3,370,535,919	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Cd86	CD86 antigen
+12752	-1,812,724,069	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Cln3	ceroid lipofuscinosis, neuronal 3, juvenile (Batten, Spielmeyer-Vogt disease)
+93675	-3,070,034,797	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Clec2i	C-type lectin domain family 2, member i
+70350	-2,399,954,375	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0043231	cellular component	intracellular membrane-bounded organelle	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0070013	cellular component	intracellular organelle lumen	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0070013	cellular component	intracellular organelle lumen	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0070013	cellular component	intracellular organelle lumen	Basp1	brain abundant, membrane attached signal protein 1
+207854	-2,766,015,336	ID:GO:0070013	cellular component	intracellular organelle lumen	Fmr1nb	fragile X mental retardation 1 neighbor
+18975	-165,567,466	ID:GO:0070013	cellular component	intracellular organelle lumen	Polg	polymerase (DNA directed), gamma
+21406	-0.882199271	ID:GO:0070013	cellular component	intracellular organelle lumen	Tcf12	transcription factor 12
+225182	-1,118,372,998	ID:GO:0070013	cellular component	intracellular organelle lumen	Rbbp8	retinoblastoma binding protein 8
+226153	-0.461720456	ID:GO:0070013	cellular component	intracellular organelle lumen	Peo1	progressive external ophthalmoplegia 1 (human)
+51786	-2,684,121,211	ID:GO:0070013	cellular component	intracellular organelle lumen	Cpsf2	cleavage and polyadenylation specific factor 2
+192156	-3,018,598,011	ID:GO:0070013	cellular component	intracellular organelle lumen	Mvd	mevalonate (diphospho) decarboxylase
+19367	-0.482433019	ID:GO:0070013	cellular component	intracellular organelle lumen	Rad9	RAD9 homolog (S. pombe)
+12317	-1,027,705,564	ID:GO:0070013	cellular component	intracellular organelle lumen	Calr	calreticulin
+12399	-3,157,436,079	ID:GO:0070013	cellular component	intracellular organelle lumen	Runx3	runt related transcription factor 3
+21425	-2,215,672,831	ID:GO:0070013	cellular component	intracellular organelle lumen	Tfeb	transcription factor EB
+13171	-0.70410374	ID:GO:0070013	cellular component	intracellular organelle lumen	Dbt	dihydrolipoamide branched chain transacylase E2
+68703	-0.498380197	ID:GO:0070013	cellular component	intracellular organelle lumen	Rere	arginine glutamic acid dipeptide (RE) repeats
+50776	-2,598,628,583	ID:GO:0070013	cellular component	intracellular organelle lumen	Polg2	polymerase (DNA directed), gamma 2, accessory subunit
+50911	-2,086,299,856	ID:GO:0070013	cellular component	intracellular organelle lumen	Exosc9	exosome component 9
+72656	-2,034,729,848	ID:GO:0070013	cellular component	intracellular organelle lumen	Ints8	integrator complex subunit 8
+12332	-4,454,146,213	ID:GO:0070013	cellular component	intracellular organelle lumen	Capg	capping protein (actin filament), gelsolin-like
+17977	-0.831389853	ID:GO:0070013	cellular component	intracellular organelle lumen	Ncoa1	nuclear receptor coactivator 1
+329650	-2,040,645,338	ID:GO:0070013	cellular component	intracellular organelle lumen	Med12l	mediator of RNA polymerase II transcription, subunit 12 homolog (yeast)-like
+17105	-1,597,453,869	ID:GO:0070013	cellular component	intracellular organelle lumen	Lyz2	lysozyme 2
+28113	-0.644271013	ID:GO:0070013	cellular component	intracellular organelle lumen	Tinf2	Terf1 (TRF1)-interacting nuclear factor 2
+21745	-1,394,832,537	ID:GO:0070013	cellular component	intracellular organelle lumen	Tep1	telomerase associated protein 1
+14087	-0.966889988	ID:GO:0070013	cellular component	intracellular organelle lumen	Fanca	Fanconi anemia, complementation group A
+12361	-0.74971326	ID:GO:0070013	cellular component	intracellular organelle lumen	Cask	calcium/calmodulin-dependent serine protein kinase (MAGUK family)
+14375	-0.664844944	ID:GO:0070013	cellular component	intracellular organelle lumen	Xrcc6	X-ray repair complementing defective repair in Chinese hamster cells 6
+94112	-1,468,635,088	ID:GO:0070013	cellular component	intracellular organelle lumen	Med15	mediator complex subunit 15
+18968	-0.871308665	ID:GO:0070013	cellular component	intracellular organelle lumen	Pola1	polymerase (DNA directed), alpha 1
+11569	-2,508,971,914	ID:GO:0070013	cellular component	intracellular organelle lumen	Aebp2	AE binding protein 2
+27632	-3,728,870,942	ID:GO:0070013	cellular component	intracellular organelle lumen	Rdbp	RD RNA-binding protein
+56215	-0.803713411	ID:GO:0070013	cellular component	intracellular organelle lumen	Acin1	apoptotic chromatin condensation inducer 1
+70625	-0.563268187	ID:GO:0070013	cellular component	intracellular organelle lumen	Med26	mediator complex subunit 26
+20846	-3,616,517,729	ID:GO:0070013	cellular component	intracellular organelle lumen	Stat1	signal transducer and activator of transcription 1
+58799	-0.526710604	ID:GO:0070013	cellular component	intracellular organelle lumen	Crbn	cereblon
+56310	-0.649304793	ID:GO:0070013	cellular component	intracellular organelle lumen	Gps2	G protein pathway suppressor 2
+11744	-5,424,446,375	ID:GO:0070013	cellular component	intracellular organelle lumen	Anxa11	annexin A11
+20964	-416,652,672	ID:GO:0070013	cellular component	intracellular organelle lumen	Syn1	synapsin I
+66213	-4,430,588,686	ID:GO:0070013	cellular component	intracellular organelle lumen	Med7	mediator complex subunit 7
+101706	-2,547,934,415	ID:GO:0070013	cellular component	intracellular organelle lumen	Numa1	nuclear mitotic apparatus protein 1
+13039	-1,714,981,311	ID:GO:0070013	cellular component	intracellular organelle lumen	Ctsl	cathepsin L
+109032	-3,073,923,615	ID:GO:0070013	cellular component	intracellular organelle lumen	Sp110	Sp110 nuclear body protein
+52705	-1,943,859,976	ID:GO:0070013	cellular component	intracellular organelle lumen	Krr1	KRR1, small subunit (SSU) processome component, homolog (yeast)
+19645	-0.625310617	ID:GO:0070013	cellular component	intracellular organelle lumen	Rb1	retinoblastoma 1
+18969	-3,328,854,918	ID:GO:0070013	cellular component	intracellular organelle lumen	Pola2	polymerase (DNA directed), alpha 2
+94067	-4,000,621,192	ID:GO:0070013	cellular component	intracellular organelle lumen	Mrpl43	mitochondrial ribosomal protein L43
+17420	-0.745044399	ID:GO:0070013	cellular component	intracellular organelle lumen	Mnat1	menage a trois 1
+70350	-2,399,954,375	ID:GO:0070013	cellular component	intracellular organelle lumen	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0070013	cellular component	intracellular organelle lumen	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0070013	cellular component	intracellular organelle lumen	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0031974	cellular component	membrane-enclosed lumen	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0031974	cellular component	membrane-enclosed lumen	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0031974	cellular component	membrane-enclosed lumen	Basp1	brain abundant, membrane attached signal protein 1
+207854	-2,766,015,336	ID:GO:0031974	cellular component	membrane-enclosed lumen	Fmr1nb	fragile X mental retardation 1 neighbor
+18975	-165,567,466	ID:GO:0031974	cellular component	membrane-enclosed lumen	Polg	polymerase (DNA directed), gamma
+21406	-0.882199271	ID:GO:0031974	cellular component	membrane-enclosed lumen	Tcf12	transcription factor 12
+225182	-1,118,372,998	ID:GO:0031974	cellular component	membrane-enclosed lumen	Rbbp8	retinoblastoma binding protein 8
+70772	-1,982,667,793	ID:GO:0031974	cellular component	membrane-enclosed lumen	Ggnbp1	gametogenetin binding protein 1
+226153	-0.461720456	ID:GO:0031974	cellular component	membrane-enclosed lumen	Peo1	progressive external ophthalmoplegia 1 (human)
+51786	-2,684,121,211	ID:GO:0031974	cellular component	membrane-enclosed lumen	Cpsf2	cleavage and polyadenylation specific factor 2
+192156	-3,018,598,011	ID:GO:0031974	cellular component	membrane-enclosed lumen	Mvd	mevalonate (diphospho) decarboxylase
+19367	-0.482433019	ID:GO:0031974	cellular component	membrane-enclosed lumen	Rad9	RAD9 homolog (S. pombe)
+12317	-1,027,705,564	ID:GO:0031974	cellular component	membrane-enclosed lumen	Calr	calreticulin
+12399	-3,157,436,079	ID:GO:0031974	cellular component	membrane-enclosed lumen	Runx3	runt related transcription factor 3
+21425	-2,215,672,831	ID:GO:0031974	cellular component	membrane-enclosed lumen	Tfeb	transcription factor EB
+13171	-0.70410374	ID:GO:0031974	cellular component	membrane-enclosed lumen	Dbt	dihydrolipoamide branched chain transacylase E2
+68703	-0.498380197	ID:GO:0031974	cellular component	membrane-enclosed lumen	Rere	arginine glutamic acid dipeptide (RE) repeats
+50776	-2,598,628,583	ID:GO:0031974	cellular component	membrane-enclosed lumen	Polg2	polymerase (DNA directed), gamma 2, accessory subunit
+50911	-2,086,299,856	ID:GO:0031974	cellular component	membrane-enclosed lumen	Exosc9	exosome component 9
+72656	-2,034,729,848	ID:GO:0031974	cellular component	membrane-enclosed lumen	Ints8	integrator complex subunit 8
+12332	-4,454,146,213	ID:GO:0031974	cellular component	membrane-enclosed lumen	Capg	capping protein (actin filament), gelsolin-like
+17977	-0.831389853	ID:GO:0031974	cellular component	membrane-enclosed lumen	Ncoa1	nuclear receptor coactivator 1
+329650	-2,040,645,338	ID:GO:0031974	cellular component	membrane-enclosed lumen	Med12l	mediator of RNA polymerase II transcription, subunit 12 homolog (yeast)-like
+17105	-1,597,453,869	ID:GO:0031974	cellular component	membrane-enclosed lumen	Lyz2	lysozyme 2
+21745	-1,394,832,537	ID:GO:0031974	cellular component	membrane-enclosed lumen	Tep1	telomerase associated protein 1
+28113	-0.644271013	ID:GO:0031974	cellular component	membrane-enclosed lumen	Tinf2	Terf1 (TRF1)-interacting nuclear factor 2
+14087	-0.966889988	ID:GO:0031974	cellular component	membrane-enclosed lumen	Fanca	Fanconi anemia, complementation group A
+12361	-0.74971326	ID:GO:0031974	cellular component	membrane-enclosed lumen	Cask	calcium/calmodulin-dependent serine protein kinase (MAGUK family)
+14375	-0.664844944	ID:GO:0031974	cellular component	membrane-enclosed lumen	Xrcc6	X-ray repair complementing defective repair in Chinese hamster cells 6
+94112	-1,468,635,088	ID:GO:0031974	cellular component	membrane-enclosed lumen	Med15	mediator complex subunit 15
+18968	-0.871308665	ID:GO:0031974	cellular component	membrane-enclosed lumen	Pola1	polymerase (DNA directed), alpha 1
+11569	-2,508,971,914	ID:GO:0031974	cellular component	membrane-enclosed lumen	Aebp2	AE binding protein 2
+27632	-3,728,870,942	ID:GO:0031974	cellular component	membrane-enclosed lumen	Rdbp	RD RNA-binding protein
+56215	-0.803713411	ID:GO:0031974	cellular component	membrane-enclosed lumen	Acin1	apoptotic chromatin condensation inducer 1
+70625	-0.563268187	ID:GO:0031974	cellular component	membrane-enclosed lumen	Med26	mediator complex subunit 26
+20846	-3,616,517,729	ID:GO:0031974	cellular component	membrane-enclosed lumen	Stat1	signal transducer and activator of transcription 1
+58799	-0.526710604	ID:GO:0031974	cellular component	membrane-enclosed lumen	Crbn	cereblon
+56310	-0.649304793	ID:GO:0031974	cellular component	membrane-enclosed lumen	Gps2	G protein pathway suppressor 2
+11744	-5,424,446,375	ID:GO:0031974	cellular component	membrane-enclosed lumen	Anxa11	annexin A11
+20964	-416,652,672	ID:GO:0031974	cellular component	membrane-enclosed lumen	Syn1	synapsin I
+66213	-4,430,588,686	ID:GO:0031974	cellular component	membrane-enclosed lumen	Med7	mediator complex subunit 7
+101706	-2,547,934,415	ID:GO:0031974	cellular component	membrane-enclosed lumen	Numa1	nuclear mitotic apparatus protein 1
+13039	-1,714,981,311	ID:GO:0031974	cellular component	membrane-enclosed lumen	Ctsl	cathepsin L
+109032	-3,073,923,615	ID:GO:0031974	cellular component	membrane-enclosed lumen	Sp110	Sp110 nuclear body protein
+52705	-1,943,859,976	ID:GO:0031974	cellular component	membrane-enclosed lumen	Krr1	KRR1, small subunit (SSU) processome component, homolog (yeast)
+19645	-0.625310617	ID:GO:0031974	cellular component	membrane-enclosed lumen	Rb1	retinoblastoma 1
+18969	-3,328,854,918	ID:GO:0031974	cellular component	membrane-enclosed lumen	Pola2	polymerase (DNA directed), alpha 2
+94067	-4,000,621,192	ID:GO:0031974	cellular component	membrane-enclosed lumen	Mrpl43	mitochondrial ribosomal protein L43
+17420	-0.745044399	ID:GO:0031974	cellular component	membrane-enclosed lumen	Mnat1	menage a trois 1
+70350	-2,399,954,375	ID:GO:0031974	cellular component	membrane-enclosed lumen	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0031974	cellular component	membrane-enclosed lumen	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0031974	cellular component	membrane-enclosed lumen	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0044422	cellular component	organelle part	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0044422	cellular component	organelle part	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0044422	cellular component	organelle part	Basp1	brain abundant, membrane attached signal protein 1
+225182	-1,118,372,998	ID:GO:0044422	cellular component	organelle part	Rbbp8	retinoblastoma binding protein 8
+70772	-1,982,667,793	ID:GO:0044422	cellular component	organelle part	Ggnbp1	gametogenetin binding protein 1
+51786	-2,684,121,211	ID:GO:0044422	cellular component	organelle part	Cpsf2	cleavage and polyadenylation specific factor 2
+381917	-136,790,207	ID:GO:0044422	cellular component	organelle part	Dnahc3	dynein, axonemal, heavy chain 3
+69089	-0.922586173	ID:GO:0044422	cellular component	organelle part	Oxa1l	oxidase assembly 1-like
+192156	-3,018,598,011	ID:GO:0044422	cellular component	organelle part	Mvd	mevalonate (diphospho) decarboxylase
+229900	-2,373,632,204	ID:GO:0044422	cellular component	organelle part	Gbp7	guanylate binding protein 7
+12317	-1,027,705,564	ID:GO:0044422	cellular component	organelle part	Calr	calreticulin
+236573	-2,240,651,301	ID:GO:0044422	cellular component	organelle part	Gbp9	guanylate-binding protein 9
+24061	-1,230,672,256	ID:GO:0044422	cellular component	organelle part	Smc1a	structural maintenance of chromosomes 1A
+13858	-0.881377287	ID:GO:0044422	cellular component	organelle part	Eps15	epidermal growth factor receptor pathway substrate 15
+21425	-2,215,672,831	ID:GO:0044422	cellular component	organelle part	Tfeb	transcription factor EB
+13171	-0.70410374	ID:GO:0044422	cellular component	organelle part	Dbt	dihydrolipoamide branched chain transacylase E2
+208628	-6,497,557,543	ID:GO:0044422	cellular component	organelle part	Kntc1	kinetochore associated 1
+57813	-2,230,136,014	ID:GO:0044422	cellular component	organelle part	Tk2	thymidine kinase 2, mitochondrial
+18703	-1,863,808,424	ID:GO:0044422	cellular component	organelle part	Pigr	polymeric immunoglobulin receptor
+50776	-2,598,628,583	ID:GO:0044422	cellular component	organelle part	Polg2	polymerase (DNA directed), gamma 2, accessory subunit
+50911	-2,086,299,856	ID:GO:0044422	cellular component	organelle part	Exosc9	exosome component 9
+66884	-0.991915594	ID:GO:0044422	cellular component	organelle part	Appbp2	amyloid beta precursor protein (cytoplasmic tail) binding protein 2
+17977	-0.831389853	ID:GO:0044422	cellular component	organelle part	Ncoa1	nuclear receptor coactivator 1
+22295	-0.629855255	ID:GO:0044422	cellular component	organelle part	Cdh23	cadherin 23 (otocadherin)
+329650	-2,040,645,338	ID:GO:0044422	cellular component	organelle part	Med12l	mediator of RNA polymerase II transcription, subunit 12 homolog (yeast)-like
+17105	-1,597,453,869	ID:GO:0044422	cellular component	organelle part	Lyz2	lysozyme 2
+21745	-1,394,832,537	ID:GO:0044422	cellular component	organelle part	Tep1	telomerase associated protein 1
+12361	-0.74971326	ID:GO:0044422	cellular component	organelle part	Cask	calcium/calmodulin-dependent serine protein kinase (MAGUK family)
+26938	-3,161,064,813	ID:GO:0044422	cellular component	organelle part	St6galnac5	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 5
+14375	-0.664844944	ID:GO:0044422	cellular component	organelle part	Xrcc6	X-ray repair complementing defective repair in Chinese hamster cells 6
+13057	-2,126,530,551	ID:GO:0044422	cellular component	organelle part	Cyba	cytochrome b-245, alpha polypeptide
+18968	-0.871308665	ID:GO:0044422	cellular component	organelle part	Pola1	polymerase (DNA directed), alpha 1
+66576	-0.774017011	ID:GO:0044422	cellular component	organelle part	Uqcrh	ubiquinol-cytochrome c reductase hinge protein
+14804	-1,126,160,128	ID:GO:0044422	cellular component	organelle part	Grid2	glutamate receptor, ionotropic, delta 2
+70625	-0.563268187	ID:GO:0044422	cellular component	organelle part	Med26	mediator complex subunit 26
+20846	-3,616,517,729	ID:GO:0044422	cellular component	organelle part	Stat1	signal transducer and activator of transcription 1
+234155	-0.655440988	ID:GO:0044422	cellular component	organelle part	Mboat4	membrane bound O-acyltransferase domain containing 4
+11744	-5,424,446,375	ID:GO:0044422	cellular component	organelle part	Anxa11	annexin A11
+20964	-416,652,672	ID:GO:0044422	cellular component	organelle part	Syn1	synapsin I
+66213	-4,430,588,686	ID:GO:0044422	cellular component	organelle part	Med7	mediator complex subunit 7
+14998	-3,408,702,404	ID:GO:0044422	cellular component	organelle part	H2-DMa	histocompatibility 2, class II, locus DMa
+270163	-1,501,107,828	ID:GO:0044422	cellular component	organelle part	Myo9a	myosin IXa
+101706	-2,547,934,415	ID:GO:0044422	cellular component	organelle part	Numa1	nuclear mitotic apparatus protein 1
+13039	-1,714,981,311	ID:GO:0044422	cellular component	organelle part	Ctsl	cathepsin L
+109032	-3,073,923,615	ID:GO:0044422	cellular component	organelle part	Sp110	Sp110 nuclear body protein
+74281	-1,599,534,867	ID:GO:0044422	cellular component	organelle part	Spatc1	spermatogenesis and centriole associated 1
+14468	-2,488,940,631	ID:GO:0044422	cellular component	organelle part	Gbp1	guanylate binding protein 1
+208624	-235,246,123	ID:GO:0044422	cellular component	organelle part	Alg3	asparagine-linked glycosylation 3 (alpha-1,3-mannosyltransferase)
+17118	-1,072,961,834	ID:GO:0044422	cellular component	organelle part	Marcks	myristoylated alanine rich protein kinase C substrate
+106628	-0.451533928	ID:GO:0044422	cellular component	organelle part	Trip10	thyroid hormone receptor interactor 10
+59056	-1,586,319,052	ID:GO:0044422	cellular component	organelle part	Evc	Ellis van Creveld gene syndrome
+18969	-3,328,854,918	ID:GO:0044422	cellular component	organelle part	Pola2	polymerase (DNA directed), alpha 2
+216549	-312,457,566	ID:GO:0044422	cellular component	organelle part	Aftph	aftiphilin
+94067	-4,000,621,192	ID:GO:0044422	cellular component	organelle part	Mrpl43	mitochondrial ribosomal protein L43
+19386	-1,934,192,751	ID:GO:0044422	cellular component	organelle part	Ranbp2	RAN binding protein 2
+17318	-2,752,528,993	ID:GO:0044422	cellular component	organelle part	Mid1	midline 1
+207854	-2,766,015,336	ID:GO:0044422	cellular component	organelle part	Fmr1nb	fragile X mental retardation 1 neighbor
+18975	-165,567,466	ID:GO:0044422	cellular component	organelle part	Polg	polymerase (DNA directed), gamma
+21406	-0.882199271	ID:GO:0044422	cellular component	organelle part	Tcf12	transcription factor 12
+226153	-0.461720456	ID:GO:0044422	cellular component	organelle part	Peo1	progressive external ophthalmoplegia 1 (human)
+18701	-0.77859174	ID:GO:0044422	cellular component	organelle part	Pigf	phosphatidylinositol glycan anchor biosynthesis, class F
+14469	-311,559,417	ID:GO:0044422	cellular component	organelle part	Gbp2	guanylate binding protein 2
+14969	-3,840,369,923	ID:GO:0044422	cellular component	organelle part	H2-Eb1	histocompatibility 2, class II antigen E beta
+55932	-3,136,039,291	ID:GO:0044422	cellular component	organelle part	Gbp3	guanylate binding protein 3
+19367	-0.482433019	ID:GO:0044422	cellular component	organelle part	Rad9	RAD9 homolog (S. pombe)
+270076	-1,173,352,379	ID:GO:0044422	cellular component	organelle part	Gcdh	glutaryl-Coenzyme A dehydrogenase
+13411	-1,150,614,207	ID:GO:0044422	cellular component	organelle part	Dnahc11	dynein, axonemal, heavy chain 11
+52563	-2,444,485,009	ID:GO:0044422	cellular component	organelle part	Cdc23	CDC23 cell division cycle 23
+12399	-3,157,436,079	ID:GO:0044422	cellular component	organelle part	Runx3	runt related transcription factor 3
+208263	-1,136,517,918	ID:GO:0044422	cellular component	organelle part	Tor1aip1	torsin A interacting protein 1
+224020	-0.880621811	ID:GO:0044422	cellular component	organelle part	Pi4ka	phosphatidylinositol 4-kinase, catalytic, alpha polypeptide
+68703	-0.498380197	ID:GO:0044422	cellular component	organelle part	Rere	arginine glutamic acid dipeptide (RE) repeats
+69926	-0.567599521	ID:GO:0044422	cellular component	organelle part	Dnahc17	dynein, axonemal, heavy chain 17
+27061	-0.801184737	ID:GO:0044422	cellular component	organelle part	Bcap31	B cell receptor associated protein 31
+544963	-1,089,638,628	ID:GO:0044422	cellular component	organelle part	Iqgap2	IQ motif containing GTPase activating protein 2
+234356	-1,157,771,946	ID:GO:0044422	cellular component	organelle part	Csgalnact1	chondroitin sulfate N-acetylgalactosaminyltransferase 1
+19713	-0.824812714	ID:GO:0044422	cellular component	organelle part	Ret	ret proto-oncogene
+72656	-2,034,729,848	ID:GO:0044422	cellular component	organelle part	Ints8	integrator complex subunit 8
+12332	-4,454,146,213	ID:GO:0044422	cellular component	organelle part	Capg	capping protein (actin filament), gelsolin-like
+654470	-2,808,809,273	ID:GO:0044422	cellular component	organelle part	Tctn1	tectonic family member 1
+237625	-2,747,348,273	ID:GO:0044422	cellular component	organelle part	Pla2g3	phospholipase A2, group III
+28113	-0.644271013	ID:GO:0044422	cellular component	organelle part	Tinf2	Terf1 (TRF1)-interacting nuclear factor 2
+14087	-0.966889988	ID:GO:0044422	cellular component	organelle part	Fanca	Fanconi anemia, complementation group A
+94112	-1,468,635,088	ID:GO:0044422	cellular component	organelle part	Med15	mediator complex subunit 15
+11569	-2,508,971,914	ID:GO:0044422	cellular component	organelle part	Aebp2	AE binding protein 2
+27632	-3,728,870,942	ID:GO:0044422	cellular component	organelle part	Rdbp	RD RNA-binding protein
+56215	-0.803713411	ID:GO:0044422	cellular component	organelle part	Acin1	apoptotic chromatin condensation inducer 1
+21354	-3,999,426,366	ID:GO:0044422	cellular component	organelle part	Tap1	transporter 1, ATP-binding cassette, sub-family B (MDR/TAP)
+60440	-5,253,773,488	ID:GO:0044422	cellular component	organelle part	Iigp1	interferon inducible GTPase 1
+234094	-2,926,275,436	ID:GO:0044422	cellular component	organelle part	Arhgef10	Rho guanine nucleotide exchange factor (GEF) 10
+58799	-0.526710604	ID:GO:0044422	cellular component	organelle part	Crbn	cereblon
+17193	-3,298,649,237	ID:GO:0044422	cellular component	organelle part	Mbd4	methyl-CpG binding domain protein 4
+56310	-0.649304793	ID:GO:0044422	cellular component	organelle part	Gps2	G protein pathway suppressor 2
+104318	-281,260,762	ID:GO:0044422	cellular component	organelle part	Csnk1d	casein kinase 1, delta
+52705	-1,943,859,976	ID:GO:0044422	cellular component	organelle part	Krr1	KRR1, small subunit (SSU) processome component, homolog (yeast)
+106025	-2,197,927,676	ID:GO:0044422	cellular component	organelle part	Sharpin	SHANK-associated RH domain interacting protein
+19645	-0.625310617	ID:GO:0044422	cellular component	organelle part	Rb1	retinoblastoma 1
+18015	-0.74619692	ID:GO:0044422	cellular component	organelle part	Nf1	neurofibromatosis 1
+17420	-0.745044399	ID:GO:0044422	cellular component	organelle part	Mnat1	menage a trois 1
+12752	-1,812,724,069	ID:GO:0044422	cellular component	organelle part	Cln3	ceroid lipofuscinosis, neuronal 3, juvenile (Batten, Spielmeyer-Vogt disease)
+70350	-2,399,954,375	ID:GO:0044422	cellular component	organelle part	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0044422	cellular component	organelle part	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0044422	cellular component	organelle part	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0044444	cellular component	cytoplasmic part	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0044444	cellular component	cytoplasmic part	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0044444	cellular component	cytoplasmic part	Basp1	brain abundant, membrane attached signal protein 1
+230734	-1,464,737,059	ID:GO:0044444	cellular component	cytoplasmic part	Yrdc	yrdC domain containing (E.coli)
+66797	-1,344,768,099	ID:GO:0044444	cellular component	cytoplasmic part	Cntnap2	contactin associated protein-like 2
+70772	-1,982,667,793	ID:GO:0044444	cellular component	cytoplasmic part	Ggnbp1	gametogenetin binding protein 1
+15516	-0.758841241	ID:GO:0044444	cellular component	cytoplasmic part	Hsp90ab1	heat shock protein 90 alpha (cytosolic), class B member 1
+53612	-2,916,580,217	ID:GO:0044444	cellular component	cytoplasmic part	Vti1b	vesicle transport through interaction with t-SNAREs 1B homolog
+76485	-0.861013141	ID:GO:0044444	cellular component	cytoplasmic part	Glt8d1	glycosyltransferase 8 domain containing 1
+14319	-1,669,659,207	ID:GO:0044444	cellular component	cytoplasmic part	Fth1	ferritin heavy chain 1
+69089	-0.922586173	ID:GO:0044444	cellular component	cytoplasmic part	Oxa1l	oxidase assembly 1-like
+192156	-3,018,598,011	ID:GO:0044444	cellular component	cytoplasmic part	Mvd	mevalonate (diphospho) decarboxylase
+229900	-2,373,632,204	ID:GO:0044444	cellular component	cytoplasmic part	Gbp7	guanylate binding protein 7
+109154	-1,481,505,012	ID:GO:0044444	cellular component	cytoplasmic part	Mlec	malectin
+12317	-1,027,705,564	ID:GO:0044444	cellular component	cytoplasmic part	Calr	calreticulin
+67883	-2,473,083,939	ID:GO:0044444	cellular component	cytoplasmic part	Uxs1	UDP-glucuronate decarboxylase 1
+236573	-2,240,651,301	ID:GO:0044444	cellular component	cytoplasmic part	Gbp9	guanylate-binding protein 9
+18552	-0.775217622	ID:GO:0044444	cellular component	cytoplasmic part	Pcsk5	proprotein convertase subtilisin/kexin type 5
+13858	-0.881377287	ID:GO:0044444	cellular component	cytoplasmic part	Eps15	epidermal growth factor receptor pathway substrate 15
+13171	-0.70410374	ID:GO:0044444	cellular component	cytoplasmic part	Dbt	dihydrolipoamide branched chain transacylase E2
+57813	-2,230,136,014	ID:GO:0044444	cellular component	cytoplasmic part	Tk2	thymidine kinase 2, mitochondrial
+215449	-1,314,235,495	ID:GO:0044444	cellular component	cytoplasmic part	Rap1b	RAS related protein 1b
+235435	-1,400,669,923	ID:GO:0044444	cellular component	cytoplasmic part	Lctl	lactase-like
+110279	-2,468,644,052	ID:GO:0044444	cellular component	cytoplasmic part	Bcr	breakpoint cluster region
+18703	-1,863,808,424	ID:GO:0044444	cellular component	cytoplasmic part	Pigr	polymeric immunoglobulin receptor
+50776	-2,598,628,583	ID:GO:0044444	cellular component	cytoplasmic part	Polg2	polymerase (DNA directed), gamma 2, accessory subunit
+58222	-3,151,300,527	ID:GO:0044444	cellular component	cytoplasmic part	Rab37	RAB37, member of RAS oncogene family
+66884	-0.991915594	ID:GO:0044444	cellular component	cytoplasmic part	Appbp2	amyloid beta precursor protein (cytoplasmic tail) binding protein 2
+217830	-195,734,749	ID:GO:0044444	cellular component	cytoplasmic part	9030617O03Rik	RIKEN cDNA 9030617O03 gene
+16149	-2,142,415,232	ID:GO:0044444	cellular component	cytoplasmic part	Cd74	CD74 antigen (invariant polypeptide of major histocompatibility complex, class II antigen-associated)
+19222	-240,884,051	ID:GO:0044444	cellular component	cytoplasmic part	Ptgir	prostaglandin I receptor (IP)
+22295	-0.629855255	ID:GO:0044444	cellular component	cytoplasmic part	Cdh23	cadherin 23 (otocadherin)
+234404	-3,107,734,023	ID:GO:0044444	cellular component	cytoplasmic part	Nxnl1	nucleoredoxin-like 1
+110877	-106,020,909	ID:GO:0044444	cellular component	cytoplasmic part	Slc18a1	solute carrier family 18 (vesicular monoamine), member 1
+17105	-1,597,453,869	ID:GO:0044444	cellular component	cytoplasmic part	Lyz2	lysozyme 2
+12361	-0.74971326	ID:GO:0044444	cellular component	cytoplasmic part	Cask	calcium/calmodulin-dependent serine protein kinase (MAGUK family)
+26938	-3,161,064,813	ID:GO:0044444	cellular component	cytoplasmic part	St6galnac5	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 5
+229898	-2,183,705,812	ID:GO:0044444	cellular component	cytoplasmic part	Gbp5	guanylate binding protein 5
+13057	-2,126,530,551	ID:GO:0044444	cellular component	cytoplasmic part	Cyba	cytochrome b-245, alpha polypeptide
+14960	-2,633,476,063	ID:GO:0044444	cellular component	cytoplasmic part	H2-Aa	histocompatibility 2, class II antigen A, alpha
+66576	-0.774017011	ID:GO:0044444	cellular component	cytoplasmic part	Uqcrh	ubiquinol-cytochrome c reductase hinge protein
+19156	-252,092,146	ID:GO:0044444	cellular component	cytoplasmic part	Psap	prosaposin
+70059	-1,075,280,865	ID:GO:0044444	cellular component	cytoplasmic part	Degs2	degenerative spermatocyte homolog 2 (Drosophila), lipid desaturase
+26425	-3,070,351,077	ID:GO:0044444	cellular component	cytoplasmic part	Nubp1	nucleotide binding protein 1
+320806	-1,699,992,936	ID:GO:0044444	cellular component	cytoplasmic part	Gfm2	G elongation factor, mitochondrial 2
+234155	-0.655440988	ID:GO:0044444	cellular component	cytoplasmic part	Mboat4	membrane bound O-acyltransferase domain containing 4
+11744	-5,424,446,375	ID:GO:0044444	cellular component	cytoplasmic part	Anxa11	annexin A11
+20964	-416,652,672	ID:GO:0044444	cellular component	cytoplasmic part	Syn1	synapsin I
+231474	-1,009,943,374	ID:GO:0044444	cellular component	cytoplasmic part	Paqr3	progestin and adipoQ receptor family member III
+14998	-3,408,702,404	ID:GO:0044444	cellular component	cytoplasmic part	H2-DMa	histocompatibility 2, class II, locus DMa
+13039	-1,714,981,311	ID:GO:0044444	cellular component	cytoplasmic part	Ctsl	cathepsin L
+21819	-1,952,767,713	ID:GO:0044444	cellular component	cytoplasmic part	Tg	thyroglobulin
+74281	-1,599,534,867	ID:GO:0044444	cellular component	cytoplasmic part	Spatc1	spermatogenesis and centriole associated 1
+14468	-2,488,940,631	ID:GO:0044444	cellular component	cytoplasmic part	Gbp1	guanylate binding protein 1
+208624	-235,246,123	ID:GO:0044444	cellular component	cytoplasmic part	Alg3	asparagine-linked glycosylation 3 (alpha-1,3-mannosyltransferase)
+17118	-1,072,961,834	ID:GO:0044444	cellular component	cytoplasmic part	Marcks	myristoylated alanine rich protein kinase C substrate
+106628	-0.451533928	ID:GO:0044444	cellular component	cytoplasmic part	Trip10	thyroid hormone receptor interactor 10
+59056	-1,586,319,052	ID:GO:0044444	cellular component	cytoplasmic part	Evc	Ellis van Creveld gene syndrome
+50917	-0.856539613	ID:GO:0044444	cellular component	cytoplasmic part	Galns	galactosamine (N-acetyl)-6-sulfate sulfatase
+216549	-312,457,566	ID:GO:0044444	cellular component	cytoplasmic part	Aftph	aftiphilin
+94067	-4,000,621,192	ID:GO:0044444	cellular component	cytoplasmic part	Mrpl43	mitochondrial ribosomal protein L43
+16151	-1,118,701,758	ID:GO:0044444	cellular component	cytoplasmic part	Ikbkg	inhibitor of kappaB kinase gamma
+75593	-2,267,126,779	ID:GO:0044444	cellular component	cytoplasmic part	2410003K15Rik	RIKEN cDNA 2410003K15 gene
+230584	-1,474,490,129	ID:GO:0044444	cellular component	cytoplasmic part	Yipf1	Yip1 domain family, member 1
+13032	-2,416,431,073	ID:GO:0044444	cellular component	cytoplasmic part	Ctsc	cathepsin C
+18975	-165,567,466	ID:GO:0044444	cellular component	cytoplasmic part	Polg	polymerase (DNA directed), gamma
+56012	-0.954387674	ID:GO:0044444	cellular component	cytoplasmic part	Pgam2	phosphoglycerate mutase 2
+13033	-2,100,754,506	ID:GO:0044444	cellular component	cytoplasmic part	Ctsd	cathepsin D
+226153	-0.461720456	ID:GO:0044444	cellular component	cytoplasmic part	Peo1	progressive external ophthalmoplegia 1 (human)
+18701	-0.77859174	ID:GO:0044444	cellular component	cytoplasmic part	Pigf	phosphatidylinositol glycan anchor biosynthesis, class F
+14469	-311,559,417	ID:GO:0044444	cellular component	cytoplasmic part	Gbp2	guanylate binding protein 2
+14969	-3,840,369,923	ID:GO:0044444	cellular component	cytoplasmic part	H2-Eb1	histocompatibility 2, class II antigen E beta
+55932	-3,136,039,291	ID:GO:0044444	cellular component	cytoplasmic part	Gbp3	guanylate binding protein 3
+54396	-3,218,661,296	ID:GO:0044444	cellular component	cytoplasmic part	Irgm2	immunity-related GTPase family M member 2
+270076	-1,173,352,379	ID:GO:0044444	cellular component	cytoplasmic part	Gcdh	glutaryl-Coenzyme A dehydrogenase
+16145	-4,980,036,328	ID:GO:0044444	cellular component	cytoplasmic part	Igtp	interferon gamma induced GTPase
+21938	-379,562,004	ID:GO:0044444	cellular component	cytoplasmic part	Tnfrsf1b	tumor necrosis factor receptor superfamily, member 1b
+353211	-2,071,168,981	ID:GO:0044444	cellular component	cytoplasmic part	Prune2	prune homolog 2 (Drosophila)
+18034	-1,556,616,271	ID:GO:0044444	cellular component	cytoplasmic part	Nfkb2	nuclear factor of kappa light polypeptide gene enhancer in B cells 2, p49/p100
+224020	-0.880621811	ID:GO:0044444	cellular component	cytoplasmic part	Pi4ka	phosphatidylinositol 4-kinase, catalytic, alpha polypeptide
+15163	-296,743,432	ID:GO:0044444	cellular component	cytoplasmic part	Hcls1	hematopoietic cell specific Lyn substrate 1
+68703	-0.498380197	ID:GO:0044444	cellular component	cytoplasmic part	Rere	arginine glutamic acid dipeptide (RE) repeats
+27061	-0.801184737	ID:GO:0044444	cellular component	cytoplasmic part	Bcap31	B cell receptor associated protein 31
+15958	-1,820,726,496	ID:GO:0044444	cellular component	cytoplasmic part	Ifit2	interferon-induced protein with tetratricopeptide repeats 2
+110821	-2,132,179,754	ID:GO:0044444	cellular component	cytoplasmic part	Pcca	propionyl-Coenzyme A carboxylase, alpha polypeptide
+234356	-1,157,771,946	ID:GO:0044444	cellular component	cytoplasmic part	Csgalnact1	chondroitin sulfate N-acetylgalactosaminyltransferase 1
+14660	-1,392,216,045	ID:GO:0044444	cellular component	cytoplasmic part	Gls	glutaminase
+68607	-0.568820516	ID:GO:0044444	cellular component	cytoplasmic part	Serhl	serine hydrolase-like
+56463	-1,409,067,888	ID:GO:0044444	cellular component	cytoplasmic part	Snd1	staphylococcal nuclease and tudor domain containing 1
+19713	-0.824812714	ID:GO:0044444	cellular component	cytoplasmic part	Ret	ret proto-oncogene
+80877	-1,506,509,221	ID:GO:0044444	cellular component	cytoplasmic part	Lrba	LPS-responsive beige-like anchor
+76916	-2,873,623,569	ID:GO:0044444	cellular component	cytoplasmic part	Timmdc1	translocase of inner mitochondrial membrane domain containing 1
+544817	-0.988623848	ID:GO:0044444	cellular component	cytoplasmic part	Arhgap27	Rho GTPase activating protein 27
+12654	-1,515,090,263	ID:GO:0044444	cellular component	cytoplasmic part	Chi3l1	chitinase 3-like 1
+18390	-1,494,024,828	ID:GO:0044444	cellular component	cytoplasmic part	Oprm1	opioid receptor, mu 1
+237625	-2,747,348,273	ID:GO:0044444	cellular component	cytoplasmic part	Pla2g3	phospholipase A2, group III
+382252	-0.895090482	ID:GO:0044444	cellular component	cytoplasmic part	A830080D01Rik	RIKEN cDNA A830080D01 gene
+20302	-3,075,396,977	ID:GO:0044444	cellular component	cytoplasmic part	Ccl3	chemokine (C-C motif) ligand 3
+15450	-0.552116241	ID:GO:0044444	cellular component	cytoplasmic part	Lipc	lipase, hepatic
+94112	-1,468,635,088	ID:GO:0044444	cellular component	cytoplasmic part	Med15	mediator complex subunit 15
+27632	-3,728,870,942	ID:GO:0044444	cellular component	cytoplasmic part	Rdbp	RD RNA-binding protein
+75572	-0.93498585	ID:GO:0044444	cellular component	cytoplasmic part	Acyp2	acylphosphatase 2, muscle type
+21354	-3,999,426,366	ID:GO:0044444	cellular component	cytoplasmic part	Tap1	transporter 1, ATP-binding cassette, sub-family B (MDR/TAP)
+60440	-5,253,773,488	ID:GO:0044444	cellular component	cytoplasmic part	Iigp1	interferon inducible GTPase 1
+15944	-3,945,389,188	ID:GO:0044444	cellular component	cytoplasmic part	Irgm1	immunity-related GTPase family M member 1
+234094	-2,926,275,436	ID:GO:0044444	cellular component	cytoplasmic part	Arhgef10	Rho guanine nucleotide exchange factor (GEF) 10
+67963	-0.96526511	ID:GO:0044444	cellular component	cytoplasmic part	Npc2	Niemann Pick type C2
+74114	-0.844290991	ID:GO:0044444	cellular component	cytoplasmic part	Crot	carnitine O-octanoyltransferase
+66531	-0.899620288	ID:GO:0044444	cellular component	cytoplasmic part	2310061C15Rik	RIKEN cDNA 2310061C15 gene
+74691	-2,085,718,475	ID:GO:0044444	cellular component	cytoplasmic part	Tdrd9	tudor domain containing 9
+240832	-0.624316219	ID:GO:0044444	cellular component	cytoplasmic part	Tor1aip2	torsin A interacting protein 2
+20430	-0.986005099	ID:GO:0044444	cellular component	cytoplasmic part	Cyfip1	cytoplasmic FMR1 interacting protein 1
+104318	-281,260,762	ID:GO:0044444	cellular component	cytoplasmic part	Csnk1d	casein kinase 1, delta
+17281	-4,279,117,753	ID:GO:0044444	cellular component	cytoplasmic part	Fyco1	FYVE and coiled-coil domain containing 1
+13040	-3,758,526,511	ID:GO:0044444	cellular component	cytoplasmic part	Ctss	cathepsin S
+106025	-2,197,927,676	ID:GO:0044444	cellular component	cytoplasmic part	Sharpin	SHANK-associated RH domain interacting protein
+14961	-372,305,297	ID:GO:0044444	cellular component	cytoplasmic part	H2-Ab1	histocompatibility 2, class II antigen A, beta 1
+98170	-1,998,246,003	ID:GO:0044444	cellular component	cytoplasmic part	Tmem132a	transmembrane protein 132A
+12752	-1,812,724,069	ID:GO:0044444	cellular component	cytoplasmic part	Cln3	ceroid lipofuscinosis, neuronal 3, juvenile (Batten, Spielmeyer-Vogt disease)
+93675	-3,070,034,797	ID:GO:0044444	cellular component	cytoplasmic part	Clec2i	C-type lectin domain family 2, member i
+68038	-0.979446783	ID:GO:0044444	cellular component	cytoplasmic part	Chid1	chitinase domain containing 1
+68038	-0.979446783	ID:GO:0044444	cellular component	cytoplasmic part	Chid1	chitinase domain containing 1
+68038	-0.979446783	ID:GO:0044444	cellular component	cytoplasmic part	Chid1	chitinase domain containing 1
+68038	-0.979446783	ID:GO:0044421	cellular component	extracellular region part	Chid1	chitinase domain containing 1
+68038	-0.979446783	ID:GO:0044421	cellular component	extracellular region part	Chid1	chitinase domain containing 1
+68038	-0.979446783	ID:GO:0044421	cellular component	extracellular region part	Chid1	chitinase domain containing 1
+13033	-2,100,754,506	ID:GO:0044421	cellular component	extracellular region part	Ctsd	cathepsin D
+16994	-2,177,769,977	ID:GO:0044421	cellular component	extracellular region part	Ltb	lymphotoxin B
+12266	-2,478,917,933	ID:GO:0044421	cellular component	extracellular region part	C3	complement component 3
+14469	-311,559,417	ID:GO:0044421	cellular component	extracellular region part	Gbp2	guanylate binding protein 2
+55932	-3,136,039,291	ID:GO:0044421	cellular component	extracellular region part	Gbp3	guanylate binding protein 3
+54396	-3,218,661,296	ID:GO:0044421	cellular component	extracellular region part	Irgm2	immunity-related GTPase family M member 2
+229900	-2,373,632,204	ID:GO:0044421	cellular component	extracellular region part	Gbp7	guanylate binding protein 7
+12317	-1,027,705,564	ID:GO:0044421	cellular component	extracellular region part	Calr	calreticulin
+12262	-3,917,351,787	ID:GO:0044421	cellular component	extracellular region part	C1qc	complement component 1, q subcomponent, C chain
+236573	-2,240,651,301	ID:GO:0044421	cellular component	extracellular region part	Gbp9	guanylate-binding protein 9
+18552	-0.775217622	ID:GO:0044421	cellular component	extracellular region part	Pcsk5	proprotein convertase subtilisin/kexin type 5
+12495	-2,773,748,731	ID:GO:0044421	cellular component	extracellular region part	Entpd1	ectonucleoside triphosphate diphosphohydrolase 1
+20303	-4,669,202,728	ID:GO:0044421	cellular component	extracellular region part	Ccl4	chemokine (C-C motif) ligand 4
+17329	-774,327,532	ID:GO:0044421	cellular component	extracellular region part	Cxcl9	chemokine (C-X-C motif) ligand 9
+12654	-1,515,090,263	ID:GO:0044421	cellular component	extracellular region part	Chi3l1	chitinase 3-like 1
+654470	-2,808,809,273	ID:GO:0044421	cellular component	extracellular region part	Tctn1	tectonic family member 1
+12361	-0.74971326	ID:GO:0044421	cellular component	extracellular region part	Cask	calcium/calmodulin-dependent serine protein kinase (MAGUK family)
+66102	-194,158,551	ID:GO:0044421	cellular component	extracellular region part	Cxcl16	chemokine (C-X-C motif) ligand 16
+15450	-0.552116241	ID:GO:0044421	cellular component	extracellular region part	Lipc	lipase, hepatic
+20302	-3,075,396,977	ID:GO:0044421	cellular component	extracellular region part	Ccl3	chemokine (C-C motif) ligand 3
+20210	-69,490,296	ID:GO:0044421	cellular component	extracellular region part	Saa3	serum amyloid A 3
+60440	-5,253,773,488	ID:GO:0044421	cellular component	extracellular region part	Iigp1	interferon inducible GTPase 1
+19156	-252,092,146	ID:GO:0044421	cellular component	extracellular region part	Psap	prosaposin
+16196	-2,218,527,718	ID:GO:0044421	cellular component	extracellular region part	Il7	interleukin 7
+12259	-4,691,729,515	ID:GO:0044421	cellular component	extracellular region part	C1qa	complement component 1, q subcomponent, alpha polypeptide
+22419	-0.462010983	ID:GO:0044421	cellular component	extracellular region part	Wnt5b	wingless-related MMTV integration site 5B
+70809	-2,046,663,595	ID:GO:0044421	cellular component	extracellular region part	Clec2g	C-type lectin domain family 2, member g
+21819	-1,952,767,713	ID:GO:0044421	cellular component	extracellular region part	Tg	thyroglobulin
+14468	-2,488,940,631	ID:GO:0044421	cellular component	extracellular region part	Gbp1	guanylate binding protein 1
+110312	-264,600,914	ID:GO:0044421	cellular component	extracellular region part	Pmch	pro-melanin-concentrating hormone
+14962	-1,426,647,927	ID:GO:0044421	cellular component	extracellular region part	Cfb	complement factor B
+231887	-0.649654321	ID:GO:0044421	cellular component	extracellular region part	Pdap1	PDGFA associated protein 1
+231887	-0.649654321	ID:GO:0044421	cellular component	extracellular region part	Pdap1	PDGFA associated protein 1
+231887	-0.649654321	ID:GO:0044421	cellular component	extracellular region part	Pdap1	PDGFA associated protein 1
+231887	-0.649654321	ID:GO:0043234	cellular component	protein complex	Pdap1	PDGFA associated protein 1
+231887	-0.649654321	ID:GO:0043234	cellular component	protein complex	Pdap1	PDGFA associated protein 1
+231887	-0.649654321	ID:GO:0043234	cellular component	protein complex	Pdap1	PDGFA associated protein 1
+225182	-1,118,372,998	ID:GO:0043234	cellular component	protein complex	Rbbp8	retinoblastoma binding protein 8
+66797	-1,344,768,099	ID:GO:0043234	cellular component	protein complex	Cntnap2	contactin associated protein-like 2
+51786	-2,684,121,211	ID:GO:0043234	cellular component	protein complex	Cpsf2	cleavage and polyadenylation specific factor 2
+381917	-136,790,207	ID:GO:0043234	cellular component	protein complex	Dnahc3	dynein, axonemal, heavy chain 3
+69089	-0.922586173	ID:GO:0043234	cellular component	protein complex	Oxa1l	oxidase assembly 1-like
+12317	-1,027,705,564	ID:GO:0043234	cellular component	protein complex	Calr	calreticulin
+24061	-1,230,672,256	ID:GO:0043234	cellular component	protein complex	Smc1a	structural maintenance of chromosomes 1A
+13858	-0.881377287	ID:GO:0043234	cellular component	protein complex	Eps15	epidermal growth factor receptor pathway substrate 15
+21425	-2,215,672,831	ID:GO:0043234	cellular component	protein complex	Tfeb	transcription factor EB
+208628	-6,497,557,543	ID:GO:0043234	cellular component	protein complex	Kntc1	kinetochore associated 1
+50911	-2,086,299,856	ID:GO:0043234	cellular component	protein complex	Exosc9	exosome component 9
+66884	-0.991915594	ID:GO:0043234	cellular component	protein complex	Appbp2	amyloid beta precursor protein (cytoplasmic tail) binding protein 2
+16149	-2,142,415,232	ID:GO:0043234	cellular component	protein complex	Cd74	CD74 antigen (invariant polypeptide of major histocompatibility complex, class II antigen-associated)
+329650	-2,040,645,338	ID:GO:0043234	cellular component	protein complex	Med12l	mediator of RNA polymerase II transcription, subunit 12 homolog (yeast)-like
+12361	-0.74971326	ID:GO:0043234	cellular component	protein complex	Cask	calcium/calmodulin-dependent serine protein kinase (MAGUK family)
+14375	-0.664844944	ID:GO:0043234	cellular component	protein complex	Xrcc6	X-ray repair complementing defective repair in Chinese hamster cells 6
+13057	-2,126,530,551	ID:GO:0043234	cellular component	protein complex	Cyba	cytochrome b-245, alpha polypeptide
+14960	-2,633,476,063	ID:GO:0043234	cellular component	protein complex	H2-Aa	histocompatibility 2, class II antigen A, alpha
+18968	-0.871308665	ID:GO:0043234	cellular component	protein complex	Pola1	polymerase (DNA directed), alpha 1
+66576	-0.774017011	ID:GO:0043234	cellular component	protein complex	Uqcrh	ubiquinol-cytochrome c reductase hinge protein
+14804	-1,126,160,128	ID:GO:0043234	cellular component	protein complex	Grid2	glutamate receptor, ionotropic, delta 2
+70625	-0.563268187	ID:GO:0043234	cellular component	protein complex	Med26	mediator complex subunit 26
+224912	-1,223,086,004	ID:GO:0043234	cellular component	protein complex	Crb3	crumbs homolog 3 (Drosophila)
+66213	-4,430,588,686	ID:GO:0043234	cellular component	protein complex	Med7	mediator complex subunit 7
+14998	-3,408,702,404	ID:GO:0043234	cellular component	protein complex	H2-DMa	histocompatibility 2, class II, locus DMa
+270163	-1,501,107,828	ID:GO:0043234	cellular component	protein complex	Myo9a	myosin IXa
+101706	-2,547,934,415	ID:GO:0043234	cellular component	protein complex	Numa1	nuclear mitotic apparatus protein 1
+106628	-0.451533928	ID:GO:0043234	cellular component	protein complex	Trip10	thyroid hormone receptor interactor 10
+18969	-3,328,854,918	ID:GO:0043234	cellular component	protein complex	Pola2	polymerase (DNA directed), alpha 2
+15040	-2,083,323,578	ID:GO:0043234	cellular component	protein complex	H2-T23	histocompatibility 2, T region locus 23
+216549	-312,457,566	ID:GO:0043234	cellular component	protein complex	Aftph	aftiphilin
+16151	-1,118,701,758	ID:GO:0043234	cellular component	protein complex	Ikbkg	inhibitor of kappaB kinase gamma
+19386	-1,934,192,751	ID:GO:0043234	cellular component	protein complex	Ranbp2	RAN binding protein 2
+69091	-0.709832545	ID:GO:0043234	cellular component	protein complex	Vps26b	vacuolar protein sorting 26 homolog B (yeast)
+16407	-2,396,144,614	ID:GO:0043234	cellular component	protein complex	Itgae	integrin alpha E, epithelial-associated
+18975	-165,567,466	ID:GO:0043234	cellular component	protein complex	Polg	polymerase (DNA directed), gamma
+17318	-2,752,528,993	ID:GO:0043234	cellular component	protein complex	Mid1	midline 1
+21406	-0.882199271	ID:GO:0043234	cellular component	protein complex	Tcf12	transcription factor 12
+14969	-3,840,369,923	ID:GO:0043234	cellular component	protein complex	H2-Eb1	histocompatibility 2, class II antigen E beta
+19367	-0.482433019	ID:GO:0043234	cellular component	protein complex	Rad9	RAD9 homolog (S. pombe)
+13411	-1,150,614,207	ID:GO:0043234	cellular component	protein complex	Dnahc11	dynein, axonemal, heavy chain 11
+52563	-2,444,485,009	ID:GO:0043234	cellular component	protein complex	Cdc23	CDC23 cell division cycle 23
+18034	-1,556,616,271	ID:GO:0043234	cellular component	protein complex	Nfkb2	nuclear factor of kappa light polypeptide gene enhancer in B cells 2, p49/p100
+68703	-0.498380197	ID:GO:0043234	cellular component	protein complex	Rere	arginine glutamic acid dipeptide (RE) repeats
+16912	-2,190,403,138	ID:GO:0043234	cellular component	protein complex	Psmb9	proteasome (prosome, macropain) subunit, beta type 9 (large multifunctional peptidase 2)
+69926	-0.567599521	ID:GO:0043234	cellular component	protein complex	Dnahc17	dynein, axonemal, heavy chain 17
+544963	-1,089,638,628	ID:GO:0043234	cellular component	protein complex	Iqgap2	IQ motif containing GTPase activating protein 2
+72656	-2,034,729,848	ID:GO:0043234	cellular component	protein complex	Ints8	integrator complex subunit 8
+70247	-2,567,176,119	ID:GO:0043234	cellular component	protein complex	Psmd1	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1
+654470	-2,808,809,273	ID:GO:0043234	cellular component	protein complex	Tctn1	tectonic family member 1
+14087	-0.966889988	ID:GO:0043234	cellular component	protein complex	Fanca	Fanconi anemia, complementation group A
+14972	-2,081,901,606	ID:GO:0043234	cellular component	protein complex	H2-K1	histocompatibility 2, K1, K region
+94112	-1,468,635,088	ID:GO:0043234	cellular component	protein complex	Med15	mediator complex subunit 15
+11569	-2,508,971,914	ID:GO:0043234	cellular component	protein complex	Aebp2	AE binding protein 2
+27632	-3,728,870,942	ID:GO:0043234	cellular component	protein complex	Rdbp	RD RNA-binding protein
+21354	-3,999,426,366	ID:GO:0043234	cellular component	protein complex	Tap1	transporter 1, ATP-binding cassette, sub-family B (MDR/TAP)
+58799	-0.526710604	ID:GO:0043234	cellular component	protein complex	Crbn	cereblon
+67674	-0.616762858	ID:GO:0043234	cellular component	protein complex	Trmt112	tRNA methyltransferase 11-2 homolog (S. cerevisiae)
+75739	-1,459,628,672	ID:GO:0043234	cellular component	protein complex	Mpp7	membrane protein, palmitoylated 7 (MAGUK p55 subfamily member 7)
+56310	-0.649304793	ID:GO:0043234	cellular component	protein complex	Gps2	G protein pathway suppressor 2
+16411	-4,720,088,061	ID:GO:0043234	cellular component	protein complex	Itgax	integrin alpha X
+14964	-2,507,732,371	ID:GO:0043234	cellular component	protein complex	H2-D1	histocompatibility 2, D region locus 1
+16409	-5,617,443,944	ID:GO:0043234	cellular component	protein complex	Itgam	integrin alpha M
+20430	-0.986005099	ID:GO:0043234	cellular component	protein complex	Cyfip1	cytoplasmic FMR1 interacting protein 1
+104318	-281,260,762	ID:GO:0043234	cellular component	protein complex	Csnk1d	casein kinase 1, delta
+106025	-2,197,927,676	ID:GO:0043234	cellular component	protein complex	Sharpin	SHANK-associated RH domain interacting protein
+14961	-372,305,297	ID:GO:0043234	cellular component	protein complex	H2-Ab1	histocompatibility 2, class II antigen A, beta 1
+19645	-0.625310617	ID:GO:0043234	cellular component	protein complex	Rb1	retinoblastoma 1
+17420	-0.745044399	ID:GO:0043234	cellular component	protein complex	Mnat1	menage a trois 1
+18015	-0.74619692	ID:GO:0043234	cellular component	protein complex	Nf1	neurofibromatosis 1
+18015	-0.74619692	ID:GO:0043234	cellular component	protein complex	Nf1	neurofibromatosis 1
+18015	-0.74619692	ID:GO:0043234	cellular component	protein complex	Nf1	neurofibromatosis 1
+18015	-0.74619692	ID:GO:0005770	cellular component	late endosome	Nf1	neurofibromatosis 1
+18015	-0.74619692	ID:GO:0005770	cellular component	late endosome	Nf1	neurofibromatosis 1
+18015	-0.74619692	ID:GO:0005770	cellular component	late endosome	Nf1	neurofibromatosis 1
+17281	-4,279,117,753	ID:GO:0005770	cellular component	late endosome	Fyco1	FYVE and coiled-coil domain containing 1
+14969	-3,840,369,923	ID:GO:0005770	cellular component	late endosome	H2-Eb1	histocompatibility 2, class II antigen E beta
+15450	-0.552116241	ID:GO:0005770	cellular component	late endosome	Lipc	lipase, hepatic
+15944	-3,945,389,188	ID:GO:0005770	cellular component	late endosome	Irgm1	immunity-related GTPase family M member 1
+14961	-372,305,297	ID:GO:0005770	cellular component	late endosome	H2-Ab1	histocompatibility 2, class II antigen A, beta 1
+16149	-2,142,415,232	ID:GO:0005770	cellular component	late endosome	Cd74	CD74 antigen (invariant polypeptide of major histocompatibility complex, class II antigen-associated)
+14998	-3,408,702,404	ID:GO:0005770	cellular component	late endosome	H2-DMa	histocompatibility 2, class II, locus DMa
+12752	-1,812,724,069	ID:GO:0005770	cellular component	late endosome	Cln3	ceroid lipofuscinosis, neuronal 3, juvenile (Batten, Spielmeyer-Vogt disease)
+12752	-1,812,724,069	ID:GO:0005770	cellular component	late endosome	Cln3	ceroid lipofuscinosis, neuronal 3, juvenile (Batten, Spielmeyer-Vogt disease)
+12752	-1,812,724,069	ID:GO:0005770	cellular component	late endosome	Cln3	ceroid lipofuscinosis, neuronal 3, juvenile (Batten, Spielmeyer-Vogt disease)
+12752	-1,812,724,069	ID:GO:0044446	cellular component	intracellular organelle part	Cln3	ceroid lipofuscinosis, neuronal 3, juvenile (Batten, Spielmeyer-Vogt disease)
+12752	-1,812,724,069	ID:GO:0044446	cellular component	intracellular organelle part	Cln3	ceroid lipofuscinosis, neuronal 3, juvenile (Batten, Spielmeyer-Vogt disease)
+12752	-1,812,724,069	ID:GO:0044446	cellular component	intracellular organelle part	Cln3	ceroid lipofuscinosis, neuronal 3, juvenile (Batten, Spielmeyer-Vogt disease)
+225182	-1,118,372,998	ID:GO:0044446	cellular component	intracellular organelle part	Rbbp8	retinoblastoma binding protein 8
+70772	-1,982,667,793	ID:GO:0044446	cellular component	intracellular organelle part	Ggnbp1	gametogenetin binding protein 1
+51786	-2,684,121,211	ID:GO:0044446	cellular component	intracellular organelle part	Cpsf2	cleavage and polyadenylation specific factor 2
+381917	-136,790,207	ID:GO:0044446	cellular component	intracellular organelle part	Dnahc3	dynein, axonemal, heavy chain 3
+69089	-0.922586173	ID:GO:0044446	cellular component	intracellular organelle part	Oxa1l	oxidase assembly 1-like
+192156	-3,018,598,011	ID:GO:0044446	cellular component	intracellular organelle part	Mvd	mevalonate (diphospho) decarboxylase
+12317	-1,027,705,564	ID:GO:0044446	cellular component	intracellular organelle part	Calr	calreticulin
+24061	-1,230,672,256	ID:GO:0044446	cellular component	intracellular organelle part	Smc1a	structural maintenance of chromosomes 1A
+13858	-0.881377287	ID:GO:0044446	cellular component	intracellular organelle part	Eps15	epidermal growth factor receptor pathway substrate 15
+21425	-2,215,672,831	ID:GO:0044446	cellular component	intracellular organelle part	Tfeb	transcription factor EB
+13171	-0.70410374	ID:GO:0044446	cellular component	intracellular organelle part	Dbt	dihydrolipoamide branched chain transacylase E2
+208628	-6,497,557,543	ID:GO:0044446	cellular component	intracellular organelle part	Kntc1	kinetochore associated 1
+57813	-2,230,136,014	ID:GO:0044446	cellular component	intracellular organelle part	Tk2	thymidine kinase 2, mitochondrial
+18703	-1,863,808,424	ID:GO:0044446	cellular component	intracellular organelle part	Pigr	polymeric immunoglobulin receptor
+50776	-2,598,628,583	ID:GO:0044446	cellular component	intracellular organelle part	Polg2	polymerase (DNA directed), gamma 2, accessory subunit
+50911	-2,086,299,856	ID:GO:0044446	cellular component	intracellular organelle part	Exosc9	exosome component 9
+66884	-0.991915594	ID:GO:0044446	cellular component	intracellular organelle part	Appbp2	amyloid beta precursor protein (cytoplasmic tail) binding protein 2
+17977	-0.831389853	ID:GO:0044446	cellular component	intracellular organelle part	Ncoa1	nuclear receptor coactivator 1
+22295	-0.629855255	ID:GO:0044446	cellular component	intracellular organelle part	Cdh23	cadherin 23 (otocadherin)
+329650	-2,040,645,338	ID:GO:0044446	cellular component	intracellular organelle part	Med12l	mediator of RNA polymerase II transcription, subunit 12 homolog (yeast)-like
+17105	-1,597,453,869	ID:GO:0044446	cellular component	intracellular organelle part	Lyz2	lysozyme 2
+21745	-1,394,832,537	ID:GO:0044446	cellular component	intracellular organelle part	Tep1	telomerase associated protein 1
+26938	-3,161,064,813	ID:GO:0044446	cellular component	intracellular organelle part	St6galnac5	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 5
+12361	-0.74971326	ID:GO:0044446	cellular component	intracellular organelle part	Cask	calcium/calmodulin-dependent serine protein kinase (MAGUK family)
+14375	-0.664844944	ID:GO:0044446	cellular component	intracellular organelle part	Xrcc6	X-ray repair complementing defective repair in Chinese hamster cells 6
+13057	-2,126,530,551	ID:GO:0044446	cellular component	intracellular organelle part	Cyba	cytochrome b-245, alpha polypeptide
+18968	-0.871308665	ID:GO:0044446	cellular component	intracellular organelle part	Pola1	polymerase (DNA directed), alpha 1
+66576	-0.774017011	ID:GO:0044446	cellular component	intracellular organelle part	Uqcrh	ubiquinol-cytochrome c reductase hinge protein
+14804	-1,126,160,128	ID:GO:0044446	cellular component	intracellular organelle part	Grid2	glutamate receptor, ionotropic, delta 2
+70625	-0.563268187	ID:GO:0044446	cellular component	intracellular organelle part	Med26	mediator complex subunit 26
+20846	-3,616,517,729	ID:GO:0044446	cellular component	intracellular organelle part	Stat1	signal transducer and activator of transcription 1
+234155	-0.655440988	ID:GO:0044446	cellular component	intracellular organelle part	Mboat4	membrane bound O-acyltransferase domain containing 4
+11744	-5,424,446,375	ID:GO:0044446	cellular component	intracellular organelle part	Anxa11	annexin A11
+20964	-416,652,672	ID:GO:0044446	cellular component	intracellular organelle part	Syn1	synapsin I
+66213	-4,430,588,686	ID:GO:0044446	cellular component	intracellular organelle part	Med7	mediator complex subunit 7
+14998	-3,408,702,404	ID:GO:0044446	cellular component	intracellular organelle part	H2-DMa	histocompatibility 2, class II, locus DMa
+270163	-1,501,107,828	ID:GO:0044446	cellular component	intracellular organelle part	Myo9a	myosin IXa
+101706	-2,547,934,415	ID:GO:0044446	cellular component	intracellular organelle part	Numa1	nuclear mitotic apparatus protein 1
+13039	-1,714,981,311	ID:GO:0044446	cellular component	intracellular organelle part	Ctsl	cathepsin L
+109032	-3,073,923,615	ID:GO:0044446	cellular component	intracellular organelle part	Sp110	Sp110 nuclear body protein
+74281	-1,599,534,867	ID:GO:0044446	cellular component	intracellular organelle part	Spatc1	spermatogenesis and centriole associated 1
+208624	-235,246,123	ID:GO:0044446	cellular component	intracellular organelle part	Alg3	asparagine-linked glycosylation 3 (alpha-1,3-mannosyltransferase)
+17118	-1,072,961,834	ID:GO:0044446	cellular component	intracellular organelle part	Marcks	myristoylated alanine rich protein kinase C substrate
+106628	-0.451533928	ID:GO:0044446	cellular component	intracellular organelle part	Trip10	thyroid hormone receptor interactor 10
+59056	-1,586,319,052	ID:GO:0044446	cellular component	intracellular organelle part	Evc	Ellis van Creveld gene syndrome
+18969	-3,328,854,918	ID:GO:0044446	cellular component	intracellular organelle part	Pola2	polymerase (DNA directed), alpha 2
+216549	-312,457,566	ID:GO:0044446	cellular component	intracellular organelle part	Aftph	aftiphilin
+94067	-4,000,621,192	ID:GO:0044446	cellular component	intracellular organelle part	Mrpl43	mitochondrial ribosomal protein L43
+19386	-1,934,192,751	ID:GO:0044446	cellular component	intracellular organelle part	Ranbp2	RAN binding protein 2
+17318	-2,752,528,993	ID:GO:0044446	cellular component	intracellular organelle part	Mid1	midline 1
+207854	-2,766,015,336	ID:GO:0044446	cellular component	intracellular organelle part	Fmr1nb	fragile X mental retardation 1 neighbor
+18975	-165,567,466	ID:GO:0044446	cellular component	intracellular organelle part	Polg	polymerase (DNA directed), gamma
+21406	-0.882199271	ID:GO:0044446	cellular component	intracellular organelle part	Tcf12	transcription factor 12
+226153	-0.461720456	ID:GO:0044446	cellular component	intracellular organelle part	Peo1	progressive external ophthalmoplegia 1 (human)
+18701	-0.77859174	ID:GO:0044446	cellular component	intracellular organelle part	Pigf	phosphatidylinositol glycan anchor biosynthesis, class F
+14969	-3,840,369,923	ID:GO:0044446	cellular component	intracellular organelle part	H2-Eb1	histocompatibility 2, class II antigen E beta
+19367	-0.482433019	ID:GO:0044446	cellular component	intracellular organelle part	Rad9	RAD9 homolog (S. pombe)
+270076	-1,173,352,379	ID:GO:0044446	cellular component	intracellular organelle part	Gcdh	glutaryl-Coenzyme A dehydrogenase
+13411	-1,150,614,207	ID:GO:0044446	cellular component	intracellular organelle part	Dnahc11	dynein, axonemal, heavy chain 11
+52563	-2,444,485,009	ID:GO:0044446	cellular component	intracellular organelle part	Cdc23	CDC23 cell division cycle 23
+12399	-3,157,436,079	ID:GO:0044446	cellular component	intracellular organelle part	Runx3	runt related transcription factor 3
+208263	-1,136,517,918	ID:GO:0044446	cellular component	intracellular organelle part	Tor1aip1	torsin A interacting protein 1
+224020	-0.880621811	ID:GO:0044446	cellular component	intracellular organelle part	Pi4ka	phosphatidylinositol 4-kinase, catalytic, alpha polypeptide
+68703	-0.498380197	ID:GO:0044446	cellular component	intracellular organelle part	Rere	arginine glutamic acid dipeptide (RE) repeats
+69926	-0.567599521	ID:GO:0044446	cellular component	intracellular organelle part	Dnahc17	dynein, axonemal, heavy chain 17
+27061	-0.801184737	ID:GO:0044446	cellular component	intracellular organelle part	Bcap31	B cell receptor associated protein 31
+544963	-1,089,638,628	ID:GO:0044446	cellular component	intracellular organelle part	Iqgap2	IQ motif containing GTPase activating protein 2
+234356	-1,157,771,946	ID:GO:0044446	cellular component	intracellular organelle part	Csgalnact1	chondroitin sulfate N-acetylgalactosaminyltransferase 1
+19713	-0.824812714	ID:GO:0044446	cellular component	intracellular organelle part	Ret	ret proto-oncogene
+72656	-2,034,729,848	ID:GO:0044446	cellular component	intracellular organelle part	Ints8	integrator complex subunit 8
+12332	-4,454,146,213	ID:GO:0044446	cellular component	intracellular organelle part	Capg	capping protein (actin filament), gelsolin-like
+654470	-2,808,809,273	ID:GO:0044446	cellular component	intracellular organelle part	Tctn1	tectonic family member 1
+237625	-2,747,348,273	ID:GO:0044446	cellular component	intracellular organelle part	Pla2g3	phospholipase A2, group III
+28113	-0.644271013	ID:GO:0044446	cellular component	intracellular organelle part	Tinf2	Terf1 (TRF1)-interacting nuclear factor 2
+14087	-0.966889988	ID:GO:0044446	cellular component	intracellular organelle part	Fanca	Fanconi anemia, complementation group A
+94112	-1,468,635,088	ID:GO:0044446	cellular component	intracellular organelle part	Med15	mediator complex subunit 15
+11569	-2,508,971,914	ID:GO:0044446	cellular component	intracellular organelle part	Aebp2	AE binding protein 2
+27632	-3,728,870,942	ID:GO:0044446	cellular component	intracellular organelle part	Rdbp	RD RNA-binding protein
+56215	-0.803713411	ID:GO:0044446	cellular component	intracellular organelle part	Acin1	apoptotic chromatin condensation inducer 1
+21354	-3,999,426,366	ID:GO:0044446	cellular component	intracellular organelle part	Tap1	transporter 1, ATP-binding cassette, sub-family B (MDR/TAP)
+60440	-5,253,773,488	ID:GO:0044446	cellular component	intracellular organelle part	Iigp1	interferon inducible GTPase 1
+234094	-2,926,275,436	ID:GO:0044446	cellular component	intracellular organelle part	Arhgef10	Rho guanine nucleotide exchange factor (GEF) 10
+58799	-0.526710604	ID:GO:0044446	cellular component	intracellular organelle part	Crbn	cereblon
+17193	-3,298,649,237	ID:GO:0044446	cellular component	intracellular organelle part	Mbd4	methyl-CpG binding domain protein 4
+56310	-0.649304793	ID:GO:0044446	cellular component	intracellular organelle part	Gps2	G protein pathway suppressor 2
+104318	-281,260,762	ID:GO:0044446	cellular component	intracellular organelle part	Csnk1d	casein kinase 1, delta
+52705	-1,943,859,976	ID:GO:0044446	cellular component	intracellular organelle part	Krr1	KRR1, small subunit (SSU) processome component, homolog (yeast)
+106025	-2,197,927,676	ID:GO:0044446	cellular component	intracellular organelle part	Sharpin	SHANK-associated RH domain interacting protein
+19645	-0.625310617	ID:GO:0044446	cellular component	intracellular organelle part	Rb1	retinoblastoma 1
+18015	-0.74619692	ID:GO:0044446	cellular component	intracellular organelle part	Nf1	neurofibromatosis 1
+17420	-0.745044399	ID:GO:0044446	cellular component	intracellular organelle part	Mnat1	menage a trois 1
+12752	-1,812,724,069	ID:GO:0044446	cellular component	intracellular organelle part	Cln3	ceroid lipofuscinosis, neuronal 3, juvenile (Batten, Spielmeyer-Vogt disease)
+70350	-2,399,954,375	ID:GO:0044446	cellular component	intracellular organelle part	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0044446	cellular component	intracellular organelle part	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0044446	cellular component	intracellular organelle part	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0031981	cellular component	nuclear lumen	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0031981	cellular component	nuclear lumen	Basp1	brain abundant, membrane attached signal protein 1
+70350	-2,399,954,375	ID:GO:0031981	cellular component	nuclear lumen	Basp1	brain abundant, membrane attached signal protein 1
+207854	-2,766,015,336	ID:GO:0031981	cellular component	nuclear lumen	Fmr1nb	fragile X mental retardation 1 neighbor
+21406	-0.882199271	ID:GO:0031981	cellular component	nuclear lumen	Tcf12	transcription factor 12
+225182	-1,118,372,998	ID:GO:0031981	cellular component	nuclear lumen	Rbbp8	retinoblastoma binding protein 8
+51786	-2,684,121,211	ID:GO:0031981	cellular component	nuclear lumen	Cpsf2	cleavage and polyadenylation specific factor 2
+19367	-0.482433019	ID:GO:0031981	cellular component	nuclear lumen	Rad9	RAD9 homolog (S. pombe)
+12399	-3,157,436,079	ID:GO:0031981	cellular component	nuclear lumen	Runx3	runt related transcription factor 3
+21425	-2,215,672,831	ID:GO:0031981	cellular component	nuclear lumen	Tfeb	transcription factor EB
+68703	-0.498380197	ID:GO:0031981	cellular component	nuclear lumen	Rere	arginine glutamic acid dipeptide (RE) repeats
+50911	-2,086,299,856	ID:GO:0031981	cellular component	nuclear lumen	Exosc9	exosome component 9
+72656	-2,034,729,848	ID:GO:0031981	cellular component	nuclear lumen	Ints8	integrator complex subunit 8
+12332	-4,454,146,213	ID:GO:0031981	cellular component	nuclear lumen	Capg	capping protein (actin filament), gelsolin-like
+17977	-0.831389853	ID:GO:0031981	cellular component	nuclear lumen	Ncoa1	nuclear receptor coactivator 1
+329650	-2,040,645,338	ID:GO:0031981	cellular component	nuclear lumen	Med12l	mediator of RNA polymerase II transcription, subunit 12 homolog (yeast)-like
+28113	-0.644271013	ID:GO:0031981	cellular component	nuclear lumen	Tinf2	Terf1 (TRF1)-interacting nuclear factor 2
+21745	-1,394,832,537	ID:GO:0031981	cellular component	nuclear lumen	Tep1	telomerase associated protein 1
+14087	-0.966889988	ID:GO:0031981	cellular component	nuclear lumen	Fanca	Fanconi anemia, complementation group A
+12361	-0.74971326	ID:GO:0031981	cellular component	nuclear lumen	Cask	calcium/calmodulin-dependent serine protein kinase (MAGUK family)
+14375	-0.664844944	ID:GO:0031981	cellular component	nuclear lumen	Xrcc6	X-ray repair complementing defective repair in Chinese hamster cells 6
+94112	-1,468,635,088	ID:GO:0031981	cellular component	nuclear lumen	Med15	mediator complex subunit 15
+18968	-0.871308665	ID:GO:0031981	cellular component	nuclear lumen	Pola1	polymerase (DNA directed), alpha 1
+11569	-2,508,971,914	ID:GO:0031981	cellular component	nuclear lumen	Aebp2	AE binding protein 2
+27632	-3,728,870,942	ID:GO:0031981	cellular component	nuclear lumen	Rdbp	RD RNA-binding protein
+56215	-0.803713411	ID:GO:0031981	cellular component	nuclear lumen	Acin1	apoptotic chromatin condensation inducer 1
+70625	-0.563268187	ID:GO:0031981	cellular component	nuclear lumen	Med26	mediator complex subunit 26
+58799	-0.526710604	ID:GO:0031981	cellular component	nuclear lumen	Crbn	cereblon
+20846	-3,616,517,729	ID:GO:0031981	cellular component	nuclear lumen	Stat1	signal transducer and activator of transcription 1
+56310	-0.649304793	ID:GO:0031981	cellular component	nuclear lumen	Gps2	G protein pathway suppressor 2
+20964	-416,652,672	ID:GO:0031981	cellular component	nuclear lumen	Syn1	synapsin I
+11744	-5,424,446,375	ID:GO:0031981	cellular component	nuclear lumen	Anxa11	annexin A11
+66213	-4,430,588,686	ID:GO:0031981	cellular component	nuclear lumen	Med7	mediator complex subunit 7
+13039	-1,714,981,311	ID:GO:0031981	cellular component	nuclear lumen	Ctsl	cathepsin L
+101706	-2,547,934,415	ID:GO:0031981	cellular component	nuclear lumen	Numa1	nuclear mitotic apparatus protein 1
+109032	-3,073,923,615	ID:GO:0031981	cellular component	nuclear lumen	Sp110	Sp110 nuclear body protein
+52705	-1,943,859,976	ID:GO:0031981	cellular component	nuclear lumen	Krr1	KRR1, small subunit (SSU) processome component, homolog (yeast)
+19645	-0.625310617	ID:GO:0031981	cellular component	nuclear lumen	Rb1	retinoblastoma 1
+18969	-3,328,854,918	ID:GO:0031981	cellular component	nuclear lumen	Pola2	polymerase (DNA directed), alpha 2
+17420	-0.745044399	ID:GO:0031981	cellular component	nuclear lumen	Mnat1	menage a trois 1
+70350	-2,399,954,375	ID:GO:0031981	cellular component	nuclear lumen	Basp1	brain abundant, membrane attached signal protein 1
+
